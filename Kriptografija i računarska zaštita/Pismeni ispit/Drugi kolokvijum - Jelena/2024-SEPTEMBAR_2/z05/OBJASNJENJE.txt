@@ -1,0 +1,27 @@
+c1.csr
+	-
+Subject Name
+C (Country):	RS
+ST (State):	BA
+L (Locality):	Banja Luka
+L (Locality):	Bijeljina
+L (Locality):	Prijedor
+
+RS i BA su zamijenjene, kao i vise L vrijednost ne odgovara policy_match te sertifikati nece moci biti potpisani.
+
+c2.csr
+	-
+L (Locality):	Banja Luka
+L (Locality):	Bijeljina
+L (Locality):	Prijedor
+
+Visestruke vrijednosti za L. Nedostaje vrijednost Email-a koja je  supplied u policy_match
+
+c3.csr
+	-
+
+L (Locality):	Banja Luka
+L (Locality):	Bijeljina
+L (Locality):	Trebinje
+
+Visestruke vrijednosti za L.

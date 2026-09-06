@@ -1,0 +1,2 @@
+R	351116152605Z	260107153724Z	01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA/CN=s1/DC=.org/serialNumber=1
+V	260507152819Z		B1	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA/CN=s2/DC=.org/serialNumber=1

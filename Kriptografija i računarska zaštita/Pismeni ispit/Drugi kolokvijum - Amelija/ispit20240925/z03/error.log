@@ -1,0 +1,66 @@
+ulazi: No such file or directory
+40079E5F407C0000:error:80000002:system library:file_ctrl:No such file or directory:../crypto/bio/bss_file.c:297:calling fopen(ulazi, r)
+40079E5F407C0000:error:10080002:BIO routines:file_ctrl:system lib:../crypto/bio/bss_file.c:300:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40874A4D87740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047E8667F7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7EB9942750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+405755DA227B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+404729B971770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A70DF563770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7109496740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40271D3B50740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4097486F6F7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40075FF1E37B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+402780CFA0750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4017EB819B790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027244DFE760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B72A44077A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4057A0564C7C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4057CDE98E770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C72933F7700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7322E6C7E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B74A51257F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E7659BAB7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B7B9BD79780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)

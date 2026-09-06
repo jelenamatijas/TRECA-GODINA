@@ -1,0 +1,2 @@
+V	310824212726Z		1B	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=Kriptografija i racunarska zastita/CN=s2/emailAddress=s2@mail.com/L=Banja Luka
+V	261024212859Z		B1	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=Kriptografija i racunarska zastita/CN=s1/emailAddress=s1@mail.com/L=Banja Luka

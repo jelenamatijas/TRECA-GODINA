@@ -1,0 +1,5 @@
+Algoritam: AES-192-ECB
+Kljuc: neporecivost
+
+
+NAPOMENA: u nastavku zadatka (ako bude potrebno), koristiti SHA-1 hash funkciju.

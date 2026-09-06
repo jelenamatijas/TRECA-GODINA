@@ -1,0 +1,1 @@
+Generisati parametre za generisanje ključeva za DSA algoritam dužine 16384 bita i konvertovati rezultujuću datoteku u DER format.

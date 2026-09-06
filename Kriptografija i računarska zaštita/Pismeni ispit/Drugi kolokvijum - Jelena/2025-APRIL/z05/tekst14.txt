@@ -1,0 +1,1 @@
+Kriptovati ispravan tekst zadatka (tj. kreirati digitalnu envelopu) novim ključem za RSA algoritam dužine 4096 bita. Kao rezultat predati novogenerisane ključeve i kriptovanu datoteku.

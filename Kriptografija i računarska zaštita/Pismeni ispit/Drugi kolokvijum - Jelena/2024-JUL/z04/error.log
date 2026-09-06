@@ -1,0 +1,14 @@
+Error reading SMIME Content Info
+4007EBDE52760000:error:068000D1:asn1 encoding routines:SMIME_read_ASN1_ex:no content type:../crypto/asn1/asn_mime.c:420:
+Error reading SMIME Content Info
+40C72661ED700000:error:068000D1:asn1 encoding routines:SMIME_read_ASN1_ex:no content type:../crypto/asn1/asn_mime.c:420:
+Error reading S/MIME message
+403707B001790000:error:068000D1:asn1 encoding routines:SMIME_read_ASN1_ex:no content type:../crypto/asn1/asn_mime.c:420:
+Error reading S/MIME message
+40D70B297E7E0000:error:068000D1:asn1 encoding routines:SMIME_read_ASN1_ex:no content type:../crypto/asn1/asn_mime.c:420:
+Could not read private key from key.key
+40374A387F790000:error:1608010C:STORE routines:ossl_store_handle_load_result:unsupported:../crypto/store/store_result.c:151:
+40374A387F790000:error:1608010C:STORE routines:ossl_store_handle_load_result:unsupported:../crypto/store/store_result.c:151:
+rsa: Use -help for summary.
+Could not read private key from key.key
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.

@@ -1,0 +1,3 @@
+ca.crt nije izdao sertifikat etf.crt
+
+openssl verify -CAfile ca.crt etf.crt

@@ -1,0 +1,1 @@
+Kriptovati ispravan tekst zadatka (tj. kreirati digitalnu envelopu) odgovarajućim ključem iz para koji je korišten za potpisivanje. 

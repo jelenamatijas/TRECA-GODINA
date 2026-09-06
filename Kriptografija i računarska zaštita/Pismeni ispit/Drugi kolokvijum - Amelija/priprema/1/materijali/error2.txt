@@ -1,0 +1,4 @@
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Could not open file or uri for loading private key from kljuc9.key.pem
+405749695A740000:error:16000069:STORE routines:ossl_store_get0_loader_int:unregistered scheme:../crypto/store/store_register.c:237:scheme=file
+405749695A740000:error:80000002:system library:file_open:No such file or directory:../providers/implementations/storemgmt/file_store.c:267:calling stat(kljuc9.key.pem)

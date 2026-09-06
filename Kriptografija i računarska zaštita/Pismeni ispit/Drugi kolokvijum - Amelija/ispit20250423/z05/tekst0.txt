@@ -1,0 +1,1 @@
+Kriptovati sadržaj datoteke /var/log/syslog AES-128 algoritmom koristeći ključ "sigurnost", a zatim kreirati datoteku koja će sadržavati SHA-1 otisak kriptovane datoteke.

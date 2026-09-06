@@ -1,0 +1,5 @@
+openssl x509 -inform DER -outform PEM -in rootca.pem -out rootca_pem.pem
+openssl verify -CAfile rootca_pem.pem  etf.crt
+
+
+

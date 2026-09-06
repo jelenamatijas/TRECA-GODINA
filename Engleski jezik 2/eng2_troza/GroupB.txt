@@ -1,0 +1,176 @@
+July 2023, Group B : 
+
+I Complete the conditional sencences in the situations using the words in brackets (3).
+
+1. A member of your team is constantly missing deadlines.(threat)
+If you miss again,i will report you to the boos.
+(miss again / report)
+
+2. A colleague wonders whether to put the presentation on a CD or not.(advice)
+If i were you,i would put the presentation on a cd.
+(be you / put)
+
+3. I didn't send the invitations so many people didn't come.(regret)
+if i had sent the invitations,many people would have come.
+(send / come)
+
+II Make the opposites of the following words by adding the appropriate prefix (3).
+1. volatile ...................nonvolatile
+2.suitable ...................unsuitable
+3.appropriate ... inappropriat
+
+III Complete the following memo using these words (4):
+	few, much, a little, little, a few, too, many, enough, a great deal of
+
+Sales figures for the year to date have been ...a little... disappointing as ..many... distributors are willing to promote our products as ...mach.... as we would like.
+The commission is relatively low and therefore there is very ..little..... incentive for them to ensure volume sales.
+
+IV Rewrite the sentences by putting verbs in the passive where appropriate (8).
+
+Neural networks look at the rules of using data. As a result, the software continually analyses value and compares it to the other factors, and it compares these factors repeatedly until it finds patterns or rules.
+The software then looks for other patterns based on these rules or sends out an alarm when it hits a trigger value.
+
+Тhe Rules of using data are looked at by Neural networks.
+As a result,the value is continually analysed and compared to the other factors by the softwer,and these factors are compared repeatedly util patterns or rules are found.
+Other patterns are then looked for based on these rules or an alarm is sent out when a trigger value is hit by softwer.
+
+V Rewrite these sentences in the passive (3).
+
+1. You have to explain the procedure to me.
+The procedure has to be explained to me by you.
+
+2. I have already given a set of diagrams.
+A set of diagrams has already been  given by me.
+
+3. Someone will demonstrate the game to the children.
+.... The game will be demonstrated to the childran by someone.
+
+VI Put the corrent form of the verbs in brackets, -ing or infinitive (8).
+
+1. You can get advice by ..phoning.. (phone) their help-line.
+2. The mouse wheel enables you ...to scroll....(scroll)up and down the document.
+3. She claims ..to have...(have) the necessary authority.
+4. Before ..switching off..(switch off), make sure you have saved your work.
+5. Adding more memory lets your computer ...work...(work) faster.
+6. They objected ....to paying........(pay) for an expensive subscription.
+7. It is a waste of time ..hacking into.. (hack into) the system without knowing the password.
+8. I look forward ......to inputting......... (input) data by voice instead of using a keyboard.
+
+VII Complete the text below using one of the articles (9).(ISPRAVLJENO)
+
+Not enough companies are using ..(prazno).. social tools to motivate their own employees. Internet tools such as these can help ..(the).. companies solve ..(empty ).. problems.
+Take for example ..(a).. case of ..(a).. car manufacturer. Some of ..(the).. company's cars were not performing well in ..(the).. most challenging environments, such as ..the.. deserts.
+By using ..(a).. social network on the Internet, businesses got employees from different parts of the world to look at the problem and collectively collaborate.
+
+VIII Rewrite these sentences to emphasise the words in italics (5).
+
+1. Support engineers must ''empathise with users''. 
+- What support engineers must is empthise with users.
+
+2. ''The Altair 8800'' was one of the first computers you could assemble at home.
+-It was the altair 8800 that was one of the first computers you could assemble at home.
+
+3. The GPRS phone became available ''in 2001''.
+- It was in 2001 that the gprs phone became available.
+
+4. Wap phone users didn't like ''waiting for Internet access''.
+-What wap phone users didnt like was waiting for internet access.
+
+5. I need ''information'' quickly.
+-What i need quickly is information.
+
+IX Replace the words in italics in each sentence the appropriate form of an -ise verb (5).
+
+1. If you use this new application, it 'reduces to a minimum' the size of your photo.
+If you use this new application, it minimises the size of your photo.
+-
+2. We can produce solutions 'which are tailored to the customers'.
+-We can produce custmised solutions. (ispravno je "customised);
+3. It is an offence to make copies of software 'which are done without authority'.
+-It is an offence to make copies of unauthorized software.
+4. A new gadget always 'makes a revolution' in the way we communicate.
+-A new gadget always revolutionise  the way we communicate.
+5. Some companies make 'specially written' applications.
+Some companies make specialized applications.
+
+X Make a relative clause using a relative pronoun (4).
+
+1. I was talking to a man. He is the head of Nokia.
+
+I was talking to a man who is the head of Nokia.
+2.  You were looking for the ticket. Jan has found it.
+
+You were looking for the ticket which jan has found.
+3. We drew up a shortlist of candidates. Their CVs were very good.
+-We draw up a shortlist of candidates whose cvs were very good.
+
+4. I recently went back to the town. I used to work there.
+I recently went back to the town where i used to work.
+
+XI Report the sentences (5).
+
+1. "When will you be testing a new program?"
+he asked me when i would be testing a new program.
+
+2. "We don't want to have any problems with electricity supply."
+He said that they did not wanted to have any problems with electricity supply.
+
+3. "Do you know why the flight has been delayed?"
+he asked me if i knew why the flight had been delayed.
+
+4. "I am not going to make any changes now."
+-he said that he was not going to make any changes then.
+
+5. "Have you ever done some training?"
+He asked me if i hed ever done some training.
+
+XII Link these statements using a relative clause with a participle (2).
+
+1. a) Thin client is a simple computer.
+   b) It comprises a processor and memory, display, keyboard, mouse and hard drives only.
+Thin client is a simple computer that compriseing a processor and memory,disply,keybord,mouse and hard drivers only.
+2. a) Subject directories are hierarchically organised indexes.
+   b) They are categorised into subject areas.
+Subject directories are hierarchically organised indexes categorised into subject areas.
+
+XIII Complete the sentences using the correct form of the word in brackets (5).
+
+1. The combination of .electronics.... and new textile materials has made it possible to create musical jackets that can read our hear rate. (ELECTRON)
+2. An ..erasable.. optical disc allows data to be deleted and new data to be recorded. (ERASE)
+3. A video ...digitizer..... is used to convert analogue video into digital video files. (DIGIT)
+4. Is this format ..convertible..? (CONVERT)
+5. The two major ..manufacurers.. of processor chips are Intel and AMD. (MANUFACTURE)
+
+XIV Replace the words in italics with the appropriate form of the verb beginning or ending with en (4).
+
+1. A MIDI message 'makes' sound 'into code' as 8-bit bytes of digital information.
+-
+encodes
+2. The new version of SimCity has been 'made better' in many ways.
+-enhanced
+
+3. Designer can offer good ideas for 'making' your web site 'brighter'.
+-
+Designer can offer good ideas for brighten your web site.
+4. Electronic readers allow you to 'make' the print size 'larger'.
+-Electronic readers allow you to enlarge the printer size.
+
+XV Using prefixes make an IT term for each of these definitions (3): 
+1. a very small but powerful processor .microprocesor.
+2. a private network containted within an enterprise used to securly share company information and computing resources among employees .intranet..
+3. describes a program which allows two way communication between user and computer ..interactive..
+
+
+XVI Translate the following sentences into English (5).
+
+1. Kada poruka stigne na svoju destinaciju, ona prolazi kroz istih sedam mrežnih komunikacionih slojeva kao kada je poslana, ali u suprotnom smjeru.
+
+2. Jezik za označavanje hiperteksta (HTML) je skup kodova koji se uglavnom koriste za veb stranice, a koji kreira elektronske dokumente prema pravilima utvrđenim od strane standardnog generalizovanog jezika za označavanje (SGML).
+
+3. Koja odlika izbjegava problem odlučivanja kako se svaka posebna vrsta podataka integriše i sinhronizuje u jednu radnu cjelinu?
+
+4. Zbog svoje anonimnosti, internet pruža pravo okruženje za internetsko uhođenje, uznemiravanje ili zloupotrebu, uglavnom u sobama za ćaskanje.
+
+5. Rudarenje podataka je jednostavno filtriranje velike količine neobrađenih podataka radi korisnih informacija koja kompaniji daju konkurentsku prednost.
+
+XVII Explain the object-oriented programming and..........

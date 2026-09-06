@@ -1,0 +1,502 @@
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore10.jks to keystore10.jks.p12...
+Existing entry alias server exists, overwrite? [no]:  Importing keystore keystore10.jks to keystore10.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore10.jks.p12 to keystore10.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore11.jks to keystore11.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore11.jks.p12 to keystore11.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore12.jks to keystore12.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore12.jks.p12 to keystore12.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore13.jks to keystore13.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore13.jks.p12 to keystore13.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore14.jks to keystore14.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore14.jks.p12 to keystore14.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore15.jks to keystore15.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore15.jks.p12 to keystore15.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore16.jks to keystore16.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore16.jks.p12 to keystore16.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore17.jks to keystore17.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore17.jks.p12 to keystore17.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore18.jks to keystore18.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore18.jks.p12 to keystore18.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore19.jks to keystore19.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore19.jks.p12 to keystore19.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore1.jks to keystore1.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore1.jks.p12 to keystore1.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore1.p12 to keystore1.p12.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore1.p12.p12 to keystore1.p12.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore20.jks to keystore20.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore20.jks.p12 to keystore20.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore21.jks to keystore21.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore21.jks.p12 to keystore21.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore22.jks to keystore22.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore22.jks.p12 to keystore22.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore23.jks to keystore23.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore23.jks.p12 to keystore23.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore24.jks to keystore24.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore24.jks.p12 to keystore24.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore25.jks to keystore25.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore25.jks.p12 to keystore25.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore26.jks to keystore26.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore26.jks.p12 to keystore26.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore27.jks to keystore27.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore27.jks.p12 to keystore27.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore28.jks to keystore28.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore28.jks.p12 to keystore28.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore29.jks to keystore29.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore29.jks.p12 to keystore29.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore2.jks to keystore2.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore2.jks.p12 to keystore2.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore30.jks to keystore30.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore30.jks.p12 to keystore30.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore31.jks to keystore31.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore31.jks.p12 to keystore31.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore32.jks to keystore32.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore32.jks.p12 to keystore32.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore33.jks to keystore33.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore33.jks.p12 to keystore33.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore34.jks to keystore34.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore34.jks.p12 to keystore34.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore35.jks to keystore35.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore35.jks.p12 to keystore35.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore36.jks to keystore36.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore36.jks.p12 to keystore36.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore37.jks to keystore37.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore37.jks.p12 to keystore37.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore38.jks to keystore38.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore38.jks.p12 to keystore38.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore39.jks to keystore39.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore39.jks.p12 to keystore39.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore3.jks to keystore3.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore3.jks.p12 to keystore3.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore40.jks to keystore40.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore40.jks.p12 to keystore40.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore41.jks to keystore41.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore41.jks.p12 to keystore41.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore42.jks to keystore42.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore42.jks.p12 to keystore42.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore43.jks to keystore43.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore43.jks.p12 to keystore43.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore44.jks to keystore44.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore44.jks.p12 to keystore44.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore45.jks to keystore45.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore45.jks.p12 to keystore45.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore46.jks to keystore46.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore46.jks.p12 to keystore46.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore47.jks to keystore47.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore47.jks.p12 to keystore47.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore48.jks to keystore48.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore48.jks.p12 to keystore48.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore49.jks to keystore49.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore49.jks.p12 to keystore49.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore4.jks to keystore4.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore4.jks.p12 to keystore4.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore50.jks to keystore50.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore50.jks.p12 to keystore50.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore5.jks to keystore5.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore5.jks.p12 to keystore5.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore6.jks to keystore6.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore6.jks.p12 to keystore6.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore7.jks to keystore7.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore7.jks.p12 to keystore7.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore8.jks to keystore8.jks.p12...
+Warning: Overwriting existing alias server in destination keystore
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Importing keystore keystore8.jks.p12 to keystore8.jks.p12.p12...
+Entry for alias server successfully imported.
+Import command completed:  1 entries successfully imported, 0 entries failed or cancelled

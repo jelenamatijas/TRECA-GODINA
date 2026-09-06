@@ -1,0 +1,1 @@
+Kriptovati ovaj tekst zadatka 3DES algoritmom ako je vrijednost ključa "sigurnost". Nakon toga, kodovati rezultujuću datoteku u base64 formatu. 

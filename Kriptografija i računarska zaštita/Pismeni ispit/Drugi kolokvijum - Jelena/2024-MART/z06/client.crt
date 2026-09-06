@@ -1,0 +1,101 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 57 (0x39)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BA, ST=RS, O=Elektrotehnicki fakultet, OU=CA_ETF, CN=Glavni CA/title=unknown
+        Validity
+            Not Before: Aug 22 11:09:14 2026 GMT
+            Not After : Aug 22 11:09:14 2027 GMT
+        Subject: C=BA, ST=RS, L=BL, O=Elektrotehnicki fakultet, OU=CA_ETF, CN=Klijent
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a6:bf:c1:be:11:62:6a:5c:72:94:63:6f:5c:fb:
+                    4a:6b:93:a2:cb:c5:d0:aa:65:a4:83:9b:1f:3d:3d:
+                    92:43:6d:e2:fe:66:8c:60:df:22:42:b6:16:50:f0:
+                    4b:c5:d1:8b:00:df:69:bc:ae:e5:ea:b9:8a:9b:7e:
+                    c6:ef:d9:21:86:ae:05:f3:0b:ea:f0:aa:ca:13:a6:
+                    32:43:bf:fc:4d:c8:71:92:26:f6:5e:21:bf:c0:3e:
+                    3e:ed:e0:09:f1:c8:11:6b:7f:79:46:3f:8d:4f:2b:
+                    67:7b:38:0a:6c:19:97:53:68:8f:83:c4:13:47:ac:
+                    cd:d2:cc:b4:5d:ce:9b:2d:5b:66:46:6a:6d:f8:44:
+                    3f:bf:b4:39:4d:f9:80:34:1f:b6:8d:f4:51:aa:2b:
+                    b5:fa:80:c4:5a:81:e8:5c:a5:a5:88:e9:44:1f:f6:
+                    46:30:d6:1a:b9:c0:f6:3e:39:a4:c3:09:2b:a5:4a:
+                    ef:51:68:a2:29:5b:fc:27:52:5d:70:da:89:5d:8c:
+                    b8:70:9a:32:11:b8:8f:cd:a5:c5:d6:ad:67:c3:cc:
+                    da:fd:c0:0a:45:7b:71:f8:ad:13:dd:b7:9f:4c:73:
+                    ac:43:14:d4:e2:39:b6:8f:21:c4:ed:f0:f3:0d:48:
+                    b9:c3:13:53:9d:4f:1b:c3:29:ab:38:cc:17:c2:05:
+                    46:95
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment
+            X509v3 Subject Key Identifier: 
+                93:B1:51:D0:0B:A7:3C:B1:CC:BD:92:03:8B:9F:B5:4D:6D:2B:63:FD
+            X509v3 Authority Key Identifier: 
+                39:3B:4B:DA:7F:40:7F:4F:D4:9B:FC:C4:DD:5C:A0:52:5D:FA:5F:B6
+    Signature Algorithm: sha1WithRSAEncryption
+    Signature Value:
+        a3:bd:bd:01:0d:3c:7e:bd:30:91:11:a4:ce:4a:e4:33:7d:e9:
+        7c:f1:e7:6d:7c:8f:a8:ca:f8:be:ff:d0:fd:42:3f:9c:f0:1c:
+        bd:08:ee:3e:e4:4c:ae:1d:b9:d5:20:0f:5b:3a:0b:75:83:53:
+        4a:c7:1e:2a:d3:69:a2:6a:1c:21:b1:b5:29:3e:10:0c:ad:49:
+        5b:05:48:99:2f:08:b2:4d:4b:8a:11:32:f9:17:8a:79:bd:2e:
+        b7:d3:80:21:4d:16:57:56:06:d7:24:a9:3e:02:38:e6:24:de:
+        db:5a:5a:d6:9f:f4:b1:29:ea:8e:15:cd:4f:13:ea:e7:f7:b0:
+        1c:5f:e9:fd:4a:4b:9f:82:d2:16:54:e9:48:70:0c:41:51:4a:
+        9b:5b:b9:96:08:27:77:5a:24:ff:fc:8d:78:b8:1a:3a:31:fa:
+        84:72:5d:a3:ba:54:bb:22:39:44:02:b1:a9:cc:1b:58:5b:3e:
+        ee:57:fe:ba:7a:0a:37:f5:ba:1a:df:51:cc:c7:e4:df:4c:c7:
+        bb:e4:6e:89:20:aa:19:c9:7f:c8:b4:9d:02:76:4f:11:a0:3c:
+        29:43:a3:ef:61:bb:86:64:91:35:8e:fe:93:33:14:ba:93:94:
+        6e:23:92:ed:46:3d:a0:cc:c9:8a:73:98:f6:0d:5b:69:c8:fc:
+        f9:a7:f2:70:35:42:94:d0:d5:98:5d:c6:58:f7:65:c2:e4:fd:
+        86:f2:c8:01:46:1e:cd:6d:ec:75:c8:98:67:d0:5c:d8:b2:b4:
+        62:86:bf:3b:fe:6a:21:49:5d:59:06:f3:ab:a1:9b:f4:c8:87:
+        2b:20:db:2f:6b:44:6f:e3:20:68:db:ca:62:ac:d6:bd:b0:e6:
+        37:35:3c:b0:3d:26:56:75:27:ff:c2:24:14:49:14:64:77:c3:
+        60:58:9c:2d:71:29:c2:7b:f2:d8:3c:51:e4:68:e3:e5:f1:10:
+        2e:6c:6c:20:b4:62:5a:28:38:a8:f2:e4:14:12:d6:ee:83:d8:
+        5e:fa:df:76:c4:d5:c6:ae:0e:ec:3b:e2:b3:b5:a2:9b:c2:40:
+        70:38:6f:85:21:1b:4f:e9:d6:ec:0e:d7:f1:cb:f2:7b:97:05:
+        98:90:8d:1a:2c:29:8e:68:31:05:20:23:7a:26:9f:0e:c7:90:
+        93:d9:ee:3b:76:64:46:c3:45:ff:d8:3b:81:4b:73:cb:43:68:
+        5f:fb:2f:c3:b9:73:1a:31:97:4c:06:eb:af:75:32:ba:e8:00:
+        5d:34:cb:b2:9c:84:25:dc:e8:6f:5c:5b:fb:3a:9e:43:09:bc:
+        6c:ae:84:65:42:a2:31:37:a8:cd:c3:6d:bd:d2:06:a2:ff:48:
+        2a:c5:a8:f2:e1:2e:a8:19
+-----BEGIN CERTIFICATE-----
+MIIEtjCCAp6gAwIBAgIBOTANBgkqhkiG9w0BAQUFADB0MQswCQYDVQQGEwJCQTEL
+MAkGA1UECBMCUlMxITAfBgNVBAoTGEVsZWt0cm90ZWhuaWNraSBmYWt1bHRldDEP
+MA0GA1UECxQGQ0FfRVRGMRIwEAYDVQQDEwlHbGF2bmkgQ0ExEDAOBgNVBAwTB3Vu
+a25vd24wHhcNMjYwODIyMTEwOTE0WhcNMjcwODIyMTEwOTE0WjBtMQswCQYDVQQG
+EwJCQTELMAkGA1UECAwCUlMxCzAJBgNVBAcMAkJMMSEwHwYDVQQKDBhFbGVrdHJv
+dGVobmlja2kgZmFrdWx0ZXQxDzANBgNVBAsMBkNBX0VURjEQMA4GA1UEAwwHS2xp
+amVudDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKa/wb4RYmpccpRj
+b1z7SmuTosvF0KplpIObHz09kkNt4v5mjGDfIkK2FlDwS8XRiwDfabyu5eq5ipt+
+xu/ZIYauBfML6vCqyhOmMkO//E3IcZIm9l4hv8A+Pu3gCfHIEWt/eUY/jU8rZ3s4
+CmwZl1Noj4PEE0eszdLMtF3Omy1bZkZqbfhEP7+0OU35gDQfto30UaortfqAxFqB
+6FylpYjpRB/2RjDWGrnA9j45pMMJK6VK71Fooilb/CdSXXDaiV2MuHCaMhG4j82l
+xdatZ8PM2v3ACkV7cfitE923n0xzrEMU1OI5to8hxO3w8w1IucMTU51PG8MpqzjM
+F8IFRpUCAwEAAaNaMFgwCQYDVR0TBAIwADALBgNVHQ8EBAMCBeAwHQYDVR0OBBYE
+FJOxUdALpzyxzL2SA4uftU1tK2P9MB8GA1UdIwQYMBaAFDk7S9p/QH9P1Jv8xN1c
+oFJd+l+2MA0GCSqGSIb3DQEBBQUAA4ICAQCjvb0BDTx+vTCREaTOSuQzfel88edt
+fI+oyvi+/9D9Qj+c8By9CO4+5EyuHbnVIA9bOgt1g1NKxx4q02miahwhsbUpPhAM
+rUlbBUiZLwiyTUuKETL5F4p5vS6304AhTRZXVgbXJKk+AjjmJN7bWlrWn/SxKeqO
+Fc1PE+rn97AcX+n9SkufgtIWVOlIcAxBUUqbW7mWCCd3WiT//I14uBo6MfqEcl2j
+ulS7IjlEArGpzBtYWz7uV/66ego39boa31HMx+TfTMe75G6JIKoZyX/ItJ0Cdk8R
+oDwpQ6PvYbuGZJE1jv6TMxS6k5RuI5LtRj2gzMmKc5j2DVtpyPz5p/JwNUKU0NWY
+XcZY92XC5P2G8sgBRh7Nbex1yJhn0FzYsrRihr87/mohSV1ZBvOroZv0yIcrINsv
+a0Rv4yBo28pirNa9sOY3NTywPSZWdSf/wiQUSRRkd8NgWJwtcSnCe/LYPFHkaOPl
+8RAubGwgtGJaKDio8uQUEtbug9he+t92xNXGrg7sO+KztaKbwkBwOG+FIRtP6dbs
+Dtfxy/J7lwWYkI0aLCmOaDEFICN6Jp8Ox5CT2e47dmRGw0X/2DuBS3PLQ2hf+y/D
+uXMaMZdMBuuvdTK66ABdNMuynIQl3OhvXFv7Op5DCbxsroRlQqIxN6jNw2290gai
+/0gqxajy4S6oGQ==
+-----END CERTIFICATE-----

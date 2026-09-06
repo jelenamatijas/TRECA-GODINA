@@ -1,0 +1,3 @@
+Could not read certificate file from client.key
+40178D6B22790000:error:1608010C:STORE routines:ossl_store_handle_load_result:unsupported:../crypto/store/store_result.c:151:
+Unable to load certificate file

@@ -1,0 +1,5 @@
+# Don't copy these into the Docker image
+.git
+.gitignore
+README.md
+build/

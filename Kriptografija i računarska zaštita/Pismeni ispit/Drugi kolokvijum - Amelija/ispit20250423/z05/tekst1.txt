@@ -1,0 +1,1 @@
+Kreirati par ključeva dužine 4096 bita za RSA algoritam, a zatim kriptovati datoteke tekst1.txt i tekst4.txt datim ključem. Kodovati rezultujuće datoteke u BASE64 formatu.

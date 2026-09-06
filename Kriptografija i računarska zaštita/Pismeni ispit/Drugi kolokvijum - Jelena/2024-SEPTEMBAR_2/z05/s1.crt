@@ -1,0 +1,103 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 161 (0xa1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BA, ST=RS, L=Banja Luka, L=Bijeljina, L=Prijedor, O=Elektrotehnicki fakultet, OU=ETF, CN=CA tijelo/emailAddress=ca@mail.com/pseudonym=Racunski centar
+        Validity
+            Not Before: Aug 23 18:35:42 2026 GMT
+            Not After : Aug 21 18:35:42 2032 GMT
+        Subject: C=BA, ST=RS, L=Banja Luka, O=Elektrotehnicki fakultet, OU=ETF, CN=s1/emailAddress=s1@mail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c7:ac:63:d3:62:0f:a2:59:a8:1b:49:ba:09:98:
+                    0f:43:31:d3:49:3e:c5:ea:74:c9:5b:55:c2:68:e7:
+                    ef:7f:e7:19:0e:13:1a:5a:e2:cf:8a:a1:32:5d:95:
+                    1a:03:0e:39:5c:95:86:35:2a:2d:90:67:85:dc:94:
+                    0b:02:67:bd:7a:73:51:50:83:a2:dd:c5:c7:b5:4d:
+                    14:20:c5:30:db:b8:ea:4a:76:ba:75:e7:99:14:81:
+                    74:25:cc:da:bd:94:de:ea:4c:de:f9:09:d1:bb:bd:
+                    30:57:e4:c0:51:26:92:b9:38:06:c8:0a:5d:a0:5e:
+                    2f:bb:0a:c8:6f:27:25:53:7c:00:8d:d9:d9:e5:db:
+                    fb:0d:29:1b:0a:d8:c8:c7:77:d5:82:a0:a5:67:df:
+                    24:e0:7a:40:31:e2:6a:93:2b:95:09:b0:69:3f:7d:
+                    93:f7:1c:e0:92:1e:55:77:2d:a0:ac:b7:9a:45:41:
+                    33:10:fa:15:84:af:52:11:2a:ea:de:1f:09:6f:73:
+                    a8:8a:00:a7:3b:7f:f3:04:97:09:27:9f:c8:4c:f4:
+                    79:ab:ee:30:af:22:95:76:24:21:65:40:4e:ac:4a:
+                    0c:6b:c1:73:a8:05:54:8e:5e:3c:42:ce:1c:26:bc:
+                    49:22:76:0f:7f:4a:b3:d1:cb:a5:ed:b9:f5:fe:7e:
+                    97:51
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Key Encipherment
+            X509v3 Subject Key Identifier: 
+                70:56:A4:88:38:04:FE:9F:19:77:63:02:D2:58:2E:9F:EC:0B:FC:F7
+            X509v3 Authority Key Identifier: 
+                82:18:D7:03:20:46:AA:EC:08:CD:2F:C6:84:2B:57:8E:FC:38:DE:9A
+    Signature Algorithm: sha1WithRSAEncryption
+    Signature Value:
+        ae:32:a7:62:3c:23:78:d1:bc:bf:a7:3e:18:f1:49:73:42:7b:
+        09:0c:21:ce:92:8f:ad:1b:a6:e1:85:92:12:40:de:a3:92:d4:
+        99:0b:ce:50:2c:1d:db:dc:af:44:81:0c:67:79:f4:df:3c:de:
+        af:d6:dd:c7:2e:46:54:7b:42:f5:45:dd:63:96:b1:25:57:60:
+        ad:6a:d7:00:be:bf:d1:c5:09:25:73:2e:4d:27:5c:49:07:02:
+        04:53:34:ee:4b:44:05:9c:6e:1b:bc:89:d1:02:c3:6b:1e:28:
+        f5:5c:81:3f:e1:71:2f:b6:ce:60:09:61:34:69:ae:46:c3:23:
+        ee:a2:a8:ad:87:52:de:1c:4f:ad:0b:13:09:a7:37:e0:04:24:
+        30:58:b0:44:45:6f:7a:21:75:b0:70:bd:a5:ed:a2:a1:58:0b:
+        88:ae:7f:d2:06:aa:b9:3c:b8:d0:ad:cf:e3:0a:65:b8:71:fc:
+        79:fe:27:12:67:75:ef:4f:d1:34:ac:ce:77:47:10:f9:dc:bf:
+        6d:69:91:98:87:e2:31:5e:1f:b7:f5:67:dc:dd:43:06:66:b0:
+        ea:75:a9:23:d7:2b:de:02:6c:1a:f6:56:79:f2:0c:21:62:23:
+        a3:b5:e5:84:3e:59:76:58:23:99:38:09:c8:ef:95:65:5e:42:
+        e7:55:db:f2:8e:b0:8d:ac:9f:46:d7:2b:92:c5:aa:e0:e0:59:
+        1e:c2:db:00:89:f3:56:64:0d:aa:d2:15:93:e6:71:58:36:b9:
+        85:91:c4:4b:f0:34:09:d0:33:13:6f:27:d1:3f:21:14:6f:d2:
+        4d:9d:3c:24:a0:e5:83:8f:31:5a:00:0c:32:9d:e4:9d:d7:a7:
+        61:62:5b:bb:eb:97:70:a0:e1:81:22:5b:a3:f7:74:fd:15:40:
+        dc:fb:bd:a9:2c:e4:e0:dd:38:1c:3a:e6:34:0f:42:e3:f8:57:
+        b8:dd:f6:3e:df:b2:f6:2e:b9:2f:80:06:26:cf:94:2e:05:76:
+        a3:01:f7:82:0f:9d:54:e7:41:83:35:5d:c4:98:6e:5d:77:be:
+        8d:d9:3e:55:07:b6:49:49:dd:f1:52:22:9f:d9:16:66:1e:c5:
+        b4:79:6d:30:3f:3f:8d:9b:cb:8e:43:8d:e1:ba:60:ab:e9:39:
+        05:06:8d:11:e8:88:8f:8c:0e:7c:bd:99:e9:90:f6:07:94:68:
+        0a:13:9f:f9:ac:2f:ba:bb:82:cc:d2:df:84:46:29:d8:c6:fa:
+        77:83:99:05:cf:18:41:53:b1:78:2f:28:f8:aa:0e:3e:30:c9:
+        36:1a:d3:b3:89:4f:35:27:f6:81:32:76:9a:f2:5c:fc:76:b9:
+        43:cd:f0:1c:10:12:14:6b
+-----BEGIN CERTIFICATE-----
+MIIFMjCCAxqgAwIBAgICAKEwDQYJKoZIhvcNAQEFBQAwgdExCzAJBgNVBAYTAkJB
+MQswCQYDVQQIEwJSUzETMBEGA1UEBxMKQmFuamEgTHVrYTESMBAGA1UEBxMJQmlq
+ZWxqaW5hMREwDwYDVQQHEwhQcmlqZWRvcjEhMB8GA1UEChMYRWxla3Ryb3RlaG5p
+Y2tpIGZha3VsdGV0MQwwCgYDVQQLEwNFVEYxEjAQBgNVBAMTCUNBIHRpamVsbzEa
+MBgGCSqGSIb3DQEJARYLY2FAbWFpbC5jb20xGDAWBgNVBEETD1JhY3Vuc2tpIGNl
+bnRhcjAeFw0yNjA4MjMxODM1NDJaFw0zMjA4MjExODM1NDJaMIGJMQswCQYDVQQG
+EwJCQTELMAkGA1UECAwCUlMxEzARBgNVBAcMCkJhbmphIEx1a2ExITAfBgNVBAoM
+GEVsZWt0cm90ZWhuaWNraSBmYWt1bHRldDEMMAoGA1UECwwDRVRGMQswCQYDVQQD
+DAJzMTEaMBgGCSqGSIb3DQEJARYLczFAbWFpbC5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDHrGPTYg+iWagbSboJmA9DMdNJPsXqdMlbVcJo5+9/
+5xkOExpa4s+KoTJdlRoDDjlclYY1Ki2QZ4XclAsCZ716c1FQg6Ldxce1TRQgxTDb
+uOpKdrp155kUgXQlzNq9lN7qTN75CdG7vTBX5MBRJpK5OAbICl2gXi+7CshvJyVT
+fACN2dnl2/sNKRsK2MjHd9WCoKVn3yTgekAx4mqTK5UJsGk/fZP3HOCSHlV3LaCs
+t5pFQTMQ+hWEr1IRKureHwlvc6iKAKc7f/MElwknn8hM9Hmr7jCvIpV2JCFlQE6s
+SgxrwXOoBVSOXjxCzhwmvEkidg9/SrPRy6XtufX+fpdRAgMBAAGjWjBYMAkGA1Ud
+EwQCMAAwCwYDVR0PBAQDAgUgMB0GA1UdDgQWBBRwVqSIOAT+nxl3YwLSWC6f7Av8
+9zAfBgNVHSMEGDAWgBSCGNcDIEaq7AjNL8aEK1eO/DjemjANBgkqhkiG9w0BAQUF
+AAOCAgEArjKnYjwjeNG8v6c+GPFJc0J7CQwhzpKPrRum4YWSEkDeo5LUmQvOUCwd
+29yvRIEMZ3n03zzer9bdxy5GVHtC9UXdY5axJVdgrWrXAL6/0cUJJXMuTSdcSQcC
+BFM07ktEBZxuG7yJ0QLDax4o9VyBP+FxL7bOYAlhNGmuRsMj7qKorYdS3hxPrQsT
+Cac34AQkMFiwREVveiF1sHC9pe2ioVgLiK5/0gaquTy40K3P4wpluHH8ef4nEmd1
+70/RNKzOd0cQ+dy/bWmRmIfiMV4ft/Vn3N1DBmaw6nWpI9cr3gJsGvZWefIMIWIj
+o7XlhD5ZdlgjmTgJyO+VZV5C51Xb8o6wjayfRtcrksWq4OBZHsLbAInzVmQNqtIV
+k+ZxWDa5hZHES/A0CdAzE28n0T8hFG/STZ08JKDlg48xWgAMMp3kndenYWJbu+uX
+cKDhgSJbo/d0/RVA3Pu9qSzk4N04HDrmNA9C4/hXuN32Pt+y9i65L4AGJs+ULgV2
+owH3gg+dVOdBgzVdxJhuXXe+jdk+VQe2SUnd8VIin9kWZh7FtHltMD8/jZvLjkON
+4bpgq+k5BQaNEeiIj4wOfL2Z6ZD2B5RoChOf+awvuruCzNLfhEYp2Mb6d4OZBc8Y
+QVOxeC8o+KoOPjDJNhrTs4lPNSf2gTJ2mvJc/Ha5Q83wHBASFGs=
+-----END CERTIFICATE-----

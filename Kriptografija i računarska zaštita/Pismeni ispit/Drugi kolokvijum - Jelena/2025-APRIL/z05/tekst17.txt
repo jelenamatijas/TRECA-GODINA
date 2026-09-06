@@ -1,0 +1,1 @@
+Generisati novi par ključeva za RSA algoritam dužine 2048 bita koji će biti kriptovan 3DES algoritmom. Iskoristiti par ključeva za novo potpisivanje teksta zadatka. Kao rješenje predati ključ i datoteku sa potpisom.

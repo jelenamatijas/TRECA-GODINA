@@ -1,0 +1,2 @@
+V	310827114517Z		44	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_ETF/CN=client
+V	270120115330Z		4A	unknown	/C=BA/ST=RS/L=BL/O=ETF/OU=ETF/CN=client_2

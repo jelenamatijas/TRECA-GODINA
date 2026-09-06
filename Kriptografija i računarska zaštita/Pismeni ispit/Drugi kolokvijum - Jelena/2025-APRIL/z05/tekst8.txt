@@ -1,0 +1,6 @@
+Iskoristiti pronadjeni par kljuceva za kreiranje CA tijela. Na osnovu date konfiguracione datoteke, iskoristiti kreirani CA sertifikat za potpisivanje 3 klijentska sertifikata sa sljedećim osobinama:
+
+1. s1.crt mora biti potpisan na 6 godina, pri čemu kao svrha upotrebe ključa moraju biti navedeni neporecivost i digitalno potpisivanje. Sertifikat ne smije biti označen kao CA sertifikat. Redni broj sertifikata mora biti 0xAB,
+2. s2.crt mora biti potpisan na 5 mjeseci, pri čemu kao dozvoljena upotreba ključa mora biti navedena enkripcija. Redni broj sertifikata mora biti 0x21. Sertifikat mora biti označen kao CA sertifikat,
+3. s3.crt mora biti potpisan na godinu dana, sa rednim brojem 0x13 i ne smije biti označen kao CA sertifikat.
+

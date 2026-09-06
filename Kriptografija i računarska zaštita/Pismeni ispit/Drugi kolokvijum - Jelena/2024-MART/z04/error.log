@@ -1,0 +1,96 @@
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 10, emailAddress = klijent10@etfbl.net
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert10.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s1, emailAddress = s1
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert11.crt: verification failed
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 5, emailAddress = klijent5@etfbl.net
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert12.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s3, emailAddress = s3
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert13.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s7, emailAddress = s7
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert14.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s6, emailAddress = s6
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert15.crt: verification failed
+C = BA, ST = Republika Srpska, L = Banja Luka, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = CA sertifikat, emailAddress = ca@etfbl.net
+error 10 at 1 depth lookup: certificate has expired
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 2, emailAddress = klijent2@etfbl.net
+error 10 at 0 depth lookup: certificate has expired
+error clientcert16.crt: verification failed
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 7, emailAddress = klijent7@etfbl.net
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert17.crt: verification failed
+C = BA, ST = Republika Srpska, L = Banja Luka, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = CA sertifikat, emailAddress = ca@etfbl.net
+error 10 at 1 depth lookup: certificate has expired
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 6, emailAddress = klijent6@etfbl.net
+error 10 at 0 depth lookup: certificate has expired
+error clientcert18.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s25, emailAddress = s25
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert19.crt: verification failed
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 1, emailAddress = klijent1@etfbl.net
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert1.crt: verification failed
+C = BA, ST = Republika Srpska, L = Banja Luka, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = CA sertifikat, emailAddress = ca@etfbl.net
+error 10 at 1 depth lookup: certificate has expired
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 9, emailAddress = klijent9@etfbl.net
+error 10 at 0 depth lookup: certificate has expired
+error clientcert20.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s23, emailAddress = s23
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert21.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s24, emailAddress = s24
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert22.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s22, emailAddress = s22
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert23.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s13, emailAddress = s13
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert24.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s15, emailAddress = s15
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert25.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s21, emailAddress = s21
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert26.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s8, emailAddress = s8
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert27.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s18, emailAddress = s18
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert28.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s10, emailAddress = s10
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert29.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s2, emailAddress = s2
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert2.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s19, emailAddress = s19
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert30.crt: verification failed
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 3, emailAddress = klijent3@etfbl.net
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert3.crt: verification failed
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 4, emailAddress = klijent4@etfbl.net
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert4.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s5, emailAddress = s5
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert5.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s9, emailAddress = s9
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert6.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s20, emailAddress = s20
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert7.crt: verification failed
+C = BA, ST = Republika Srpska, O = Elektrotehnicki fakultet, OU = Katedra za racunarstvo i informatiku, CN = Klijent 8, emailAddress = klijent8@etfbl.net
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert8.crt: verification failed
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = CA_AleksandarKelec, CN = s17, emailAddress = s17
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error clientcert9.crt: verification failed

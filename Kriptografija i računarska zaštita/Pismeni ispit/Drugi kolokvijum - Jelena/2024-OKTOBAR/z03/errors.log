@@ -1,0 +1,4 @@
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40871AA452720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()

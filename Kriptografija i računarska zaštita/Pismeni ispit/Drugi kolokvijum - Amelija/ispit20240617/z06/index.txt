@@ -1,0 +1,2 @@
+V	270106155624Z		BA	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_MarkoMarkovic/CN=s1/emailAddress=s1@gmail.com/GN=gn
+V	21240805155916Z		AB	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_MarkoMarkovic/CN=s2/emailAddress=s2@gmail.com/GN=gn

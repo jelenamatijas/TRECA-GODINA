@@ -1,0 +1,9 @@
+# Build artifacts
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/*.log

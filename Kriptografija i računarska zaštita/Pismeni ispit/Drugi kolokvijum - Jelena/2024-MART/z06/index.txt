@@ -1,0 +1,4 @@
+V	360819100616Z		37	unknown	/C=BA/ST=RS/L=BL/O=Elektrotehnicki fakultet/OU=CA_ETF/CN=Klijent 1
+V	270822100816Z		38	unknown	/C=BA/ST=RS/L=BL/O=Elektrotehnicki fakultet/OU=CA_ETF/CN=Klijent 2
+V	270822101256Z		36	unknown	/C=BA/ST=RS/L=BL/O=Elektrotehnicki fakultet/OU=CA_ETF/CN=Klijent2
+V	270822110914Z		39	unknown	/C=BA/ST=RS/L=BL/O=Elektrotehnicki fakultet/OU=CA_ETF/CN=Klijent

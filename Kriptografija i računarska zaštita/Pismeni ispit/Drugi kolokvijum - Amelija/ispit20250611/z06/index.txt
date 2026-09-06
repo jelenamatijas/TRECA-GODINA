@@ -1,0 +1,5 @@
+V	260112092921Z		01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/CN=s1/emailAddress=s1@gmail
+V	260112113856Z		02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/CN=s2/emailAddress=s2@gmail.com
+V	260112113918Z		03	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/CN=s3/emailAddress=s3@gmail.com
+V	260112114740Z		FF	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/O=Elektrotehnicki fakultet/O=Elektrotehnicki fakultet/CN=s2/emailAddress=s2@gmail.com
+V	260112114902Z		0100	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/O=Elektrotehnicki fakultet/O=Elektrotehnicki fakultet/CN=s3/emailAddress=s3@gmail.com

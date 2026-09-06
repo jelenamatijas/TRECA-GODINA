@@ -1,0 +1,108 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 73 (0x49)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BA, ST=RS, O=Elektrotehnicki fakultet, OU=CA_ETF, CN=CA/title=unknown
+        Validity
+            Not Before: Aug 22 14:20:36 2026 GMT
+            Not After : Aug 22 14:20:36 2027 GMT
+        Subject: C=BA, ST=RS, L=BL, O=Elektrotehnicki fakultet, OU=ETF, CN=Klijent_2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d8:47:2f:9b:64:21:dd:07:8c:bb:14:a6:3c:ac:
+                    6f:a5:2a:4f:d6:94:45:91:49:c0:58:c0:7c:2f:04:
+                    58:70:43:17:f0:92:79:2e:db:0a:81:df:41:d3:26:
+                    61:b0:30:7b:20:0b:61:ee:8f:fc:21:99:6d:03:bc:
+                    75:bb:ee:78:18:f7:4b:fe:d0:5a:50:b2:4c:bd:a5:
+                    fc:dd:8f:92:34:86:81:33:39:25:32:39:e6:ce:26:
+                    6b:21:bb:e5:6b:d0:ca:0f:2e:3f:8c:b7:ef:33:79:
+                    72:eb:8f:b1:37:30:75:a5:04:09:a3:8e:50:e1:66:
+                    4d:cb:87:77:de:0d:36:29:e4:1e:66:88:c0:12:50:
+                    35:44:d5:d0:0b:71:82:f1:56:f1:49:18:35:ab:8a:
+                    7a:ab:bd:7b:7c:a7:a6:38:a4:dd:44:86:1a:85:8d:
+                    f2:1d:39:e7:d0:b8:94:14:25:8d:1e:c6:a3:e1:dc:
+                    09:67:87:6b:01:b5:04:56:73:93:d4:db:cd:4b:05:
+                    8f:a8:cf:6f:57:b5:57:e5:55:ff:f9:c8:55:ac:6a:
+                    f3:bd:05:08:2b:78:37:21:1d:e5:76:f9:ab:7a:e8:
+                    22:8b:bd:bd:6a:53:4e:60:1d:81:79:30:4f:93:c0:
+                    6c:69:f0:dd:8c:c1:a5:cf:a2:51:d0:83:3e:23:a6:
+                    28:17
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                06:A9:57:15:35:B3:E6:1A:69:01:1D:75:A5:73:95:CE:84:FE:A9:3A
+            X509v3 Authority Key Identifier: 
+                keyid:59:6B:9B:79:B1:09:00:0C:93:7E:9E:59:99:C6:37:CA:F6:35:86:DD
+                DirName:/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_ETF/CN=CA/title=unknown
+                serial:09:7A:96:3C:57:E8:65:32:1E:B9:B3:6C:3F:3A:9F:E4:F2:AA:21:35
+            X509v3 Basic Constraints: 
+                CA:TRUE
+            X509v3 Key Usage: 
+                Data Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+    Signature Algorithm: sha1WithRSAEncryption
+    Signature Value:
+        11:23:18:be:fa:55:f9:94:b6:bc:20:ee:13:85:55:42:73:7e:
+        bb:65:f6:3a:c0:94:32:fa:7c:71:3c:71:97:88:9a:03:0a:2e:
+        dc:0e:2b:f2:df:dd:7b:95:ed:69:6f:ce:b3:0e:5d:84:6c:b5:
+        1f:2c:30:34:37:d6:5b:8c:cc:bb:3e:9f:58:05:d8:44:b6:4d:
+        a3:9a:3c:b5:c9:33:af:7b:8d:ad:9d:be:88:9a:3d:76:44:8b:
+        9f:04:a4:0b:45:56:56:b0:66:2c:99:7f:35:c1:4d:2d:98:93:
+        d5:dc:a7:09:a6:f5:26:35:68:eb:dd:ed:1f:d7:95:ff:f9:15:
+        d1:eb:95:a8:8f:95:7e:05:be:c5:4f:27:49:da:5a:50:60:42:
+        13:c1:28:3e:da:91:6a:ea:f5:e2:64:89:9d:5c:d7:e9:14:10:
+        06:6e:43:d7:62:e2:bd:83:f8:7c:c9:ee:1f:14:d8:71:8b:ff:
+        87:88:1c:45:a6:25:e8:c2:3d:61:d4:be:d3:36:cb:0f:2b:2d:
+        1d:2a:34:f0:4c:27:13:a2:4e:40:43:37:65:58:1d:62:e3:63:
+        7b:f0:d0:46:89:60:58:ec:20:e1:39:ed:5f:44:38:f7:28:f1:
+        50:ac:ab:02:ca:f8:41:17:30:b1:37:12:7a:32:9a:c4:2c:6c:
+        7a:1b:f5:c6:b3:08:5d:f0:63:86:28:9a:56:2d:3b:d0:a5:ce:
+        9b:92:74:1e:df:90:1c:1e:e9:73:48:4f:f3:8a:67:e4:85:52:
+        f6:54:bf:c9:65:63:6f:fb:16:65:cb:4d:03:d8:a9:1a:65:8b:
+        20:21:ac:ff:12:8c:a9:9b:3b:25:13:32:cf:aa:8b:69:7c:b0:
+        ec:ab:8b:25:e5:ea:ea:3a:38:42:ca:78:9a:9e:f7:1b:5c:88:
+        2a:d9:3b:8a:8b:f5:98:2f:e9:6c:cb:83:d2:42:f2:14:30:88:
+        17:dd:6e:b5:4a:ee:90:2d:61:5b:e9:1d:81:e9:a1:97:06:02:
+        4f:7b:fe:73:cd:3a:cb:b7:41:3a:b5:78:7c:d7:01:f2:18:7c:
+        06:dc:87:69:6f:9c:b2:04:1c:b3:8f:90:75:1b:54:d8:16:c2:
+        87:5b:37:e8:4e:ee:6f:03:eb:88:0b:6a:fa:d0:b5:5c:e6:a5:
+        a6:3b:d0:99:9d:6c:2e:b9:b6:13:4d:bb:03:f9:21:51:0e:c1:
+        3f:4a:11:ae:86:35:96:90:f2:4b:4b:cc:32:67:62:5f:90:34:
+        54:d0:0c:99:05:3f:b4:b6:25:d4:fd:ba:f5:8c:46:6d:ad:ce:
+        ba:36:2a:1b:aa:cb:f4:a6:90:4b:5a:d5:8e:9b:5d:41:42:68:
+        2f:d2:40:44:9d:6e:8b:66
+-----BEGIN CERTIFICATE-----
+MIIFYDCCA0igAwIBAgIBSTANBgkqhkiG9w0BAQUFADBtMQswCQYDVQQGEwJCQTEL
+MAkGA1UECBMCUlMxITAfBgNVBAoTGEVsZWt0cm90ZWhuaWNraSBmYWt1bHRldDEP
+MA0GA1UECxQGQ0FfRVRGMQswCQYDVQQDEwJDQTEQMA4GA1UEDBMHdW5rbm93bjAe
+Fw0yNjA4MjIxNDIwMzZaFw0yNzA4MjIxNDIwMzZaMGwxCzAJBgNVBAYTAkJBMQsw
+CQYDVQQIDAJSUzELMAkGA1UEBwwCQkwxITAfBgNVBAoMGEVsZWt0cm90ZWhuaWNr
+aSBmYWt1bHRldDEMMAoGA1UECwwDRVRGMRIwEAYDVQQDDAlLbGlqZW50XzIwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDYRy+bZCHdB4y7FKY8rG+lKk/W
+lEWRScBYwHwvBFhwQxfwknku2wqB30HTJmGwMHsgC2Huj/whmW0DvHW77ngY90v+
+0FpQsky9pfzdj5I0hoEzOSUyOebOJmshu+Vr0MoPLj+Mt+8zeXLrj7E3MHWlBAmj
+jlDhZk3Lh3feDTYp5B5miMASUDVE1dALcYLxVvFJGDWrinqrvXt8p6Y4pN1EhhqF
+jfIdOefQuJQUJY0exqPh3Alnh2sBtQRWc5PU281LBY+oz29XtVflVf/5yFWsavO9
+BQgreDchHeV2+at66CKLvb1qU05gHYF5ME+TwGxp8N2MwaXPolHQgz4jpigXAgMB
+AAGjggEKMIIBBjAdBgNVHQ4EFgQUBqlXFTWz5hppAR11pXOVzoT+qTowgaoGA1Ud
+IwSBojCBn4AUWWubebEJAAyTfp5ZmcY3yvY1ht2hcaRvMG0xCzAJBgNVBAYTAkJB
+MQswCQYDVQQIEwJSUzEhMB8GA1UEChMYRWxla3Ryb3RlaG5pY2tpIGZha3VsdGV0
+MQ8wDQYDVQQLFAZDQV9FVEYxCzAJBgNVBAMTAkNBMRAwDgYDVQQMEwd1bmtub3du
+ghQJepY8V+hlMh65s2w/Op/k8qohNTAMBgNVHRMEBTADAQH/MAsGA1UdDwQEAwIE
+EDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDQYJKoZIhvcNAQEFBQAD
+ggIBABEjGL76VfmUtrwg7hOFVUJzfrtl9jrAlDL6fHE8cZeImgMKLtwOK/Lf3XuV
+7WlvzrMOXYRstR8sMDQ31luMzLs+n1gF2ES2TaOaPLXJM697ja2dvoiaPXZEi58E
+pAtFVlawZiyZfzXBTS2Yk9Xcpwmm9SY1aOvd7R/Xlf/5FdHrlaiPlX4FvsVPJ0na
+WlBgQhPBKD7akWrq9eJkiZ1c1+kUEAZuQ9di4r2D+HzJ7h8U2HGL/4eIHEWmJejC
+PWHUvtM2yw8rLR0qNPBMJxOiTkBDN2VYHWLjY3vw0EaJYFjsIOE57V9EOPco8VCs
+qwLK+EEXMLE3EnoymsQsbHob9cazCF3wY4YomlYtO9ClzpuSdB7fkBwe6XNIT/OK
+Z+SFUvZUv8llY2/7FmXLTQPYqRpliyAhrP8SjKmbOyUTMs+qi2l8sOyriyXl6uo6
+OELKeJqe9xtciCrZO4qL9Zgv6WzLg9JC8hQwiBfdbrVK7pAtYVvpHYHpoZcGAk97
+/nPNOsu3QTq1eHzXAfIYfAbch2lvnLIEHLOPkHUbVNgWwodbN+hO7m8D64gLavrQ
+tVzmpaY70JmdbC65thNNuwP5IVEOwT9KEa6GNZaQ8ktLzDJnYl+QNFTQDJkFP7S2
+JdT9uvWMRm2tzro2Khuqy/SmkEta1Y6bXUFCaC/SQESdbotm
+-----END CERTIFICATE-----

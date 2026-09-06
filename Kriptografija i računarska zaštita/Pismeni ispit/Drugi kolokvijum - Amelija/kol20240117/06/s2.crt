@@ -1,0 +1,113 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 178 (0xb2)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BA, ST=RS, L=Banja Luka, L=Bijeljina, L=Prijedor, O=Elektrotehnicki fakultet, OU=ETF, CN=CA tijelo/emailAddress=ca@mail.com/pseudonym=Racunski centar
+        Validity
+            Not Before: Jan  2 18:07:22 2026 GMT
+            Not After : Jul  1 18:07:22 2026 GMT
+        Subject: C=BA, ST=RS, O=Elektrotehnicki fakultet, OU=ETF, L=Banja Luka, CN=s2/emailAddress=s2@gmail.com/pseudonym=pseuodo
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2046 bit)
+                Modulus:
+                    39:57:00:c1:c7:46:fc:a6:2c:8b:a0:23:8e:99:63:
+                    ae:da:40:a0:5e:69:a4:38:9e:02:97:3b:c6:1e:8b:
+                    ba:c0:16:66:88:94:41:11:da:b2:ca:63:6e:73:ad:
+                    cc:93:a5:f7:b4:fb:27:db:f7:fd:55:c8:da:44:81:
+                    88:ca:9b:3b:c3:31:5b:97:8f:46:5e:a1:fd:28:71:
+                    fb:ae:78:f5:9f:62:0f:8a:59:43:10:ea:a6:c9:44:
+                    05:3a:2f:24:2e:3e:d3:fd:cc:8b:3f:09:62:4b:74:
+                    15:7a:d0:37:aa:39:40:4c:04:4a:da:cd:9d:97:76:
+                    60:d6:0f:5d:5b:43:53:56:e9:7a:64:90:d3:b4:07:
+                    ae:11:d7:d0:1e:c8:66:a3:60:1c:8e:87:77:05:4c:
+                    16:fa:1f:fc:ad:bb:23:54:64:62:5d:3e:2a:c8:2a:
+                    17:28:aa:ac:4d:bf:10:4e:cc:95:36:18:8b:19:56:
+                    1c:0e:b2:e4:81:63:59:02:63:bd:fb:93:44:02:00:
+                    e9:c1:50:05:cd:3f:43:eb:18:d6:5e:ee:21:f5:c3:
+                    7a:4f:18:7f:d5:9c:e3:63:f8:5b:8c:be:e2:e7:2e:
+                    e1:ed:8d:e6:d9:11:80:30:4f:f7:93:a5:a8:bd:e9:
+                    7f:8d:21:e5:60:a3:69:e1:c6:ee:9d:8d:9d:d0:80:
+                    87
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                94:5D:55:A0:2D:BA:FB:C2:78:42:B8:22:5C:F5:2A:FC:52:39:6E:3A
+            X509v3 Authority Key Identifier: 
+                keyid:82:18:D7:03:20:46:AA:EC:08:CD:2F:C6:84:2B:57:8E:FC:38:DE:9A
+                DirName:/C=BA/ST=RS/L=Banja Luka/L=Bijeljina/L=Prijedor/O=Elektrotehnicki fakultet/OU=ETF/CN=CA tijelo/emailAddress=ca@mail.com/pseudonym=Racunski centar
+                serial:42:56:6F:78:BA:BD:5C:4C:B2:9F:5C:FE:30:D3:8E:9E:F7:D4:74:FF
+            X509v3 Basic Constraints: 
+                CA:TRUE
+            X509v3 Key Usage: 
+                Data Encipherment, Key Agreement, Certificate Sign, CRL Sign
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+    Signature Algorithm: sha1WithRSAEncryption
+    Signature Value:
+        51:ec:26:b8:c8:97:51:e9:c3:ae:d7:73:9c:22:7e:23:ce:1f:
+        c1:4c:1b:36:28:42:b0:60:a6:09:53:a3:7d:a5:54:c3:af:d0:
+        bc:76:7e:6c:86:14:4d:62:1c:8f:9e:cf:81:a4:a4:b5:89:3e:
+        e6:34:82:44:a1:69:4e:1f:eb:36:a8:5f:42:17:c6:83:ed:fe:
+        f0:9f:66:98:5f:e9:33:d0:b7:44:e1:98:0f:79:83:fa:85:9f:
+        89:66:9d:84:dd:33:41:12:86:d3:18:1c:49:4e:3d:4e:04:64:
+        f7:dc:78:2f:da:55:74:84:bb:43:a6:9c:b9:79:1b:50:3c:e7:
+        ea:c0:d1:83:aa:d9:38:9b:ee:2c:1a:d1:dc:36:34:03:d6:26:
+        3b:1c:2f:d9:d2:d6:6b:21:17:4b:9a:9a:78:6a:88:37:83:71:
+        07:c4:50:92:ad:76:da:4c:83:03:bc:8a:1b:bb:22:9d:87:de:
+        95:8c:a1:d4:ea:6a:75:7a:37:28:a4:71:c5:8e:f1:55:13:25:
+        04:30:a6:82:35:5f:39:db:ce:e7:0f:4b:00:0c:89:e8:12:3a:
+        76:b2:09:59:36:c7:91:e3:b5:5a:e1:fa:f9:20:6b:77:bd:90:
+        43:06:96:28:b2:a6:6e:08:ae:69:db:eb:f2:3a:8e:f0:06:a1:
+        1b:54:2c:89:07:f9:8c:00:eb:db:f1:e0:7a:dd:50:9e:69:93:
+        13:1d:c2:78:0f:4d:13:0c:22:6f:dd:b2:c3:30:67:17:97:44:
+        d4:cd:e8:0c:18:5f:9d:d3:fe:4d:e6:c0:e5:08:dc:fb:d8:bd:
+        2b:fa:36:f1:e5:71:77:7d:db:55:9f:bc:87:b4:20:18:01:e2:
+        b2:f9:49:1f:fc:58:95:84:00:73:b7:8a:7c:4a:6c:3e:16:0b:
+        4b:bc:c8:00:a5:62:40:23:b8:e1:47:c3:a6:31:7e:a8:73:cf:
+        18:61:69:db:0d:f6:40:1c:8a:8e:66:eb:21:f9:db:7e:70:93:
+        f8:d9:60:52:91:92:d6:e3:ff:7f:94:c1:09:6e:6c:c6:d9:8f:
+        da:01:32:5c:25:da:71:eb:76:ca:74:ef:ce:9d:3d:17:b7:f9:
+        e8:ef:18:22:e3:ee:01:d3:d0:ca:fc:ce:c6:9c:bf:5e:b0:e5:
+        b5:73:ea:31:f9:b3:ee:ae:e0:05:0d:18:2c:31:a9:b3:81:ac:
+        22:92:e3:00:c0:e7:ff:bc:e6:17:d4:0b:6b:cb:83:31:ba:55:
+        ed:a1:f4:1d:f4:84:61:ab:cd:df:51:79:ef:e1:ee:c4:b2:ed:
+        f6:b7:8a:23:ba:63:c3:9c:4d:3f:d4:06:91:5a:78:12:03:b7:
+        d1:5b:00:a1:36:32:29:98
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----

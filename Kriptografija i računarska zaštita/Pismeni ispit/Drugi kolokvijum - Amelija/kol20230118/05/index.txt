@@ -1,0 +1,2 @@
+V	351112175011Z		23	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=s1/emailAddress=s1@gmail.com/title=title
+V	261229175330Z		24	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=s2/emailAddress=s2@gmail.com/title=title

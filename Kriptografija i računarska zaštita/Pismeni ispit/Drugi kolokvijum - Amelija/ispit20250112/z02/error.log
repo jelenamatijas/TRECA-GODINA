@@ -1,0 +1,1583 @@
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+40075FFB6B7A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+4047E7DACA720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+4097185888780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+4027E01E147C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+406734D6A8770000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+400744C995710000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40A7A029697F0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40673F1712720000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40E73FE6197E0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4067D165AB730000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+40B7A8B2A57E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40978E66427D0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+40672683DB710000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+405756D9F1750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40A70C68EB7C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+4027FC6541760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+40F723EC6B7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+40B79FFFA87E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+40778D2C13760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4037FBA637700000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40A77FC75F7E0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+407747E008720000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40E72FDFA47D0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4097E72F247E0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4017E23E0A770000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+4077A1CF54770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40E7EDBE777F0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+40F7AC5C80750000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40970952DA760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40B72C0AAB760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+40E75512107A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+4017E07B1F7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+40E7FAAF93740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+401775FD907C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40B72B319F7D0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40176470037C0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40776D7475740000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40F728BA15740000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40471EA0DD740000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4017208DA9790000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+4007DDAE2D760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40D7DF9CE1720000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+bad magic number
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+40371DD610790000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+4097D8B2B67E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+error reading input file
+error reading input file
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40D7CE93DC700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+error reading input file
+error reading input file
+enc: Unknown cipher: legacy
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+401783DACB740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Use -help for summary.
+400749CECB7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+Error setting cipher DES-CFB
+405778B0D5750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+enc: Unknown cipher: legacy
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40275E65CC7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+Error setting cipher DES-CFB1
+4077CA6C94700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+enc: Use -help for summary.
+4007CB7905740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4097480DB1750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+40778CAD34760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+403776E5E1790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E79818727D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+402772B7CB7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+40C7E0D2677B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7BF62B87B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+407746133E740000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E701CACC700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40572F3A8F710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40D73F6246700000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C75C0C60700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B79C12BB7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+408711DCCB7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7C433F57D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4027197405720000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40179919957C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7633D98770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40D79BDA4F780000:error:80000020:system library:file_ctrl:Broken pipe:../crypto/bio/bss_file.c:326:calling fflush()
+40D79BDA4F780000:error:10080002:BIO routines:file_ctrl:system lib:../crypto/bio/bss_file.c:328:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40374C9E3A700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4087FF0858720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40278715E8740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+bad decrypt
+40F71DE755700000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4017F4E5DF790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7028649750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+bad decrypt
+4007C47D6B760000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D73C4450760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40D749A22A760000:error:80000020:system library:file_ctrl:Broken pipe:../crypto/bio/bss_file.c:326:calling fflush()
+40D749A22A760000:error:10080002:BIO routines:file_ctrl:system lib:../crypto/bio/bss_file.c:328:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+405734B23A750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40073BBDCC750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+402796A464740000:error:80000020:system library:file_ctrl:Broken pipe:../crypto/bio/bss_file.c:326:calling fflush()
+402796A464740000:error:10080002:BIO routines:file_ctrl:system lib:../crypto/bio/bss_file.c:328:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027FCD1CD700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40974C0F33700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E7529B4A7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40872589E3790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4067E066027C0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7E3E66C7C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7E56F25780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40972DE41F760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027807DB4770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+40375A416C7E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B7936BB07C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40474631907D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7DE4832770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+bad decrypt
+40A76C47337B0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7E1C9BC730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+40E7B38A73770000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4017E48AAB7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A769FC42780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Use -help for summary.
+407753AA117B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+Error setting cipher DESX-CBC
+4027E48141700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+4047110C9D7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4007BB9548750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40770AE15A770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+40275505B97D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4067E6E2B27C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E70C50C97D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+402738C7D5700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A70ED479770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4007127417780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+4027780913780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4037CDA40C7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4017387F05730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+405711D7957F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7D2FAC67B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E72228277C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40B7C812917D0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4057793D5A7A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+400704C38E7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40C788644F730000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40175CB802710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4037F418B6730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4077C72266740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047AA94CB750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40B7C917DE7D0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4087EDCEAA700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047F4520A780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+407798453D7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40977CCA42710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+407799B65B730000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047027B2A720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B745992A720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+403704EF037A0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+402708F9CB7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047100C9D7A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+401778AE43750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B78A54CA730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F70BB4B07C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4077DB5C3E710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7AC3956760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40474B2AE8710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40B74F4BA3700000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7AC68647B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047C237CC7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4037CFA661760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7CE47A0750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+40A7D58F1A700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E7009B017F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047948CBA7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40279D5C167D0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A786BEF6750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7DE12A9760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+40F7CDF0CA770000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4037C2F2E1730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C72994AB7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40D71F13477F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A7DCAEDA7C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4067016EFB770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+400722A1157F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E72AF9B67F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A76C8100720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+40C713B829720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40674C8F197A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+401753310C760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+40578A87F37D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7EF5DCC7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047A6B2227F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+40B79D08F87C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E72C243A740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A7B1DA60730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+40D7FFA3D2760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+402786A348750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A77369AF770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+40972F2809780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4097F4188E720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B7CF68A57F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+4037D301E4730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027861E2B7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40572D3AF87B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40B71E79D2770000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4077044FEF760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E74CA2D4760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40C7EC17457A0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F77E10B0730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B74E45FF730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027124FEE7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40477A9DB3730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40F7D03FFD6F0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40672D12E1740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40474B0AD8790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A7849101740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E73CDD49710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+402790701C7A0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7779029790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4087F89EAC7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40F7377EBD740000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E7725BE1740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7B9B31E720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A7BA86217F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4007D7C47D7C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027A411577B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40070EFE17790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+402763B14D7C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7929705700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4097471492710000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E7ECFE59780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4097D3FEF6730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4007282219710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027FA4F2F780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+40C7F9C58C700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047FB7AB1750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40375613F17A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40873A95C97E0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4007C7783D770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4007A659AA700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+4067618A0D780000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4017806D18780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40378E80BC7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+4017EE4799700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4087005C6F710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7CAB5BA7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40A7323783740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40977FDEFD7E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40673A2D58710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+40176EE51C710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7A6F218760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F71F132A760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+4047E4E5EB740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40474F12EA770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7682111700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+40F7309581780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7C7DC7F760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40173E7CDE7E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+4007C8800C7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4077138D827A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7C50179740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+40E7990F0B750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047AD7B17770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4017B5D9FD730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+4037A0AD8E750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E7076893730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40874F1724770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40076BA3E37B0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E732BD58780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+403764F254710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40C7B73D3F7A0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40278AC003720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+401704EAC2750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4057FB5A7A780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4037BB75E0770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40671A5BB7780000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+404759183F7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047A1C0047F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4067CF60C7760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7558295720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40F7946C267E0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047CBC7D6700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E7F4A79B720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40D7E09E17790000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7CD63707E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7B8F1A9720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047A20FDB700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40073969AB7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A7944089710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+403718C8BC730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C7512F3B7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4017752134760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40A73616B9720000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027F8E6357E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+404729A9F3760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4057EA91ED7E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40472279457B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+4057A3CAD77D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B742AD7A7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4007BCD688750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40178ACE07730000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A71665917B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4007384E567B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+409747C1D5780000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4097CD0A657E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4017794408700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40D7EDB6517C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4087552E38700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40278BD580770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40D7B0240B780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C73D4CAA700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40570E3144710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+4027EE2F34760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+40E781C5487A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+40072FA37E760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+40773A97507A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+40F7A46296740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+403706A566720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4017836BD4770000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40E720C636750000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40874457B8700000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+400739C9BB780000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4007679F98720000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+403755CE18710000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+4097D1209E700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40F76C95777A0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+40A777CD72780000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+4037106B747E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40271890DE7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+4067D122E47F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+40971BE1AF790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+40D722070C710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+40976140E9750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+4097DA9B51710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+40873D58DF720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40F752DAF1740000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40D7C871977D0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40D7A066587A0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40C7F2AECE7C0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4067AED0BA720000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4007869B64750000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad magic number
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+40B7C6165E780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40B734F2CC7C0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+40E7BCF613790000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40472B5237780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+400704455C750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+40F7CE4CBD710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F7AD6A35750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4067347B06700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+4007C60FF17D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40278C8878720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+405714163C7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB
+40D724C942740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB : 38), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F797196A740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A74308F27A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB1
+40770EAF34760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB1 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+402798B8C4730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B75266F2720000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CFB8
+4097BC9CDC700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CFB8 : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40476A1975780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40973A03137C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-ECB
+40176E73317F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-ECB : 1), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A703356B740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4097C1D3B67E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40E7A483C2780000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7F10938700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4077631ADB700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+402763F9197A0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E753CD7E710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027075912700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7359FD5760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A7FFE4BB770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4087424D2A780000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+400754040E7D0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40C71BE99B780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+400767EC49710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40678C5A81740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40D7FEF1ED770000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40879625B1710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40871CCE57710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4087D55035770000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40574B8EAF700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40673F89EA770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4087FF467D7C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4077CE18C7700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4097EEAE757A0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40E7547536780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4057894F537E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40F70851E07E0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4047AA73C27D0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40D7BBC0707F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40573893AB760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B78E3B66730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B7A9D721710000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-OFB
+4017BDC38C750000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-OFB : 66), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40279CBA86740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4027CA9FA6770000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4007CE4E647C0000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../providers/implementations/ciphers/ciphercommon.c:443:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40675111F07B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40A7687045740000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+error writing output file
+40E7338705780000:error:1C800066:Provider routines:tdes_wrap_update:cipher operation failed:../providers/implementations/ciphers/cipher_tdes_wrap.c:164:
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4037C469F47F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40073B6F22730000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+40D75CA92E7C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+404767273C700000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40976361217C0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DESX-CBC
+4037E41E4A760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DESX-CBC : 0), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4037D6B75F790000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+40B710D54C760000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Error setting cipher DES-CBC
+4057D14B937B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (DES-CBC : 8), Properties ()
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4047AFBF0A780000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)
+enc: Unknown cipher: legacy
+enc: Use -help for summary.
+4037E0AB9A7B0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (legacy : 0), Properties (<null>)

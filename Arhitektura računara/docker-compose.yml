@@ -1,0 +1,17 @@
+services:
+  docker_arhitektura_racunara:
+    build: .
+    container_name: arhitektura-racunara
+    image: arhitektura-racunara
+    volumes:
+      # Mount the current directory to persist source files
+      - .:/arhitektura-racunara
+    working_dir: /arhitektura-racunara
+    # Keep container running
+    stdin_open: true
+    tty: true
+    # Add security capabilities for debugging
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - seccomp:unconfined

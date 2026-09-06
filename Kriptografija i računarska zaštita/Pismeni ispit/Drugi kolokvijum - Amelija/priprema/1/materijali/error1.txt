@@ -1,0 +1,2 @@
+Could not read private key from kljuc9.key
+4047340B8B760000:error:1608010C:STORE routines:ossl_store_handle_load_result:unsupported:../crypto/store/store_result.c:151:
