@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="580.0" prefWidth="720.0" xmlns="http://javafx.com/javafx/17.0.14" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jelena.etfbl.smartvillage.app.PregledUredjajaController">
+    <children>
+        <Label layoutX="249.0" layoutY="20.0" text="Upravljanje IoT uređajima zadruge">
+            <font>
+                <Font name="System Bold" size="14.0" />
+            </font>
+        </Label>
+
+        <TableView fx:id="uredjaji_tableView" layoutX="25.0" layoutY="60.0" prefHeight="200.0" prefWidth="670.0">
+            <columns>
+                <TableColumn fx:id="serijskiBroj_col" prefWidth="120.0" text="Serijski broj" />
+                <TableColumn fx:id="status_col" prefWidth="85.0" text="Status" />
+                <TableColumn fx:id="parcela_col" prefWidth="150.0" text="Lokacija (Parcela)" />
+                <TableColumn fx:id="hub_col" prefWidth="130.0" text="Pripada HAB-u" />
+                <TableColumn fx:id="opis_col" prefWidth="180.0" text="Opis / Specifikacija" />
+            </columns>
+        </TableView>
+
+        <Button layoutX="25.0" layoutY="270.0" mnemonicParsing="false" onAction="#obrisiUredjaj" prefWidth="160.0" style="-fx-background-color: #ff4d4d; -fx-text-fill: white;" text="Obriši selektovani uređaj" />
+
+        <Label layoutX="25.0" layoutY="320.0" text="Dodaj novi IoT uređaj u zadrugu:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+
+        <Label layoutX="25.0" layoutY="355.0" text="Serijski broj:" />
+        <TextField fx:id="serijskiBroj_txtField" layoutX="120.0" layoutY="351.0" prefWidth="200.0" promptText="npr. SN-XYZ-123" />
+
+        <Label layoutX="360.0" layoutY="355.0" text="Status uređaja:" />
+        <CheckBox fx:id="aktivan_checkBox" layoutX="460.0" layoutY="355.0" mnemonicParsing="false" selected="true" text="Uređaj je aktivan i u funkciji" />
+
+        <Label layoutX="25.0" layoutY="405.0" text="Izaberi parcelu:" />
+        <ComboBox fx:id="parcela_comboBox" layoutX="120.0" layoutY="401.0" prefWidth="575.0" promptText="-- Odaberite parcelu na kojoj se uređaj nalazi --" />
+
+        <Label layoutX="25.0" layoutY="455.0" text="Opis uređaja:" />
+        <TextField fx:id="opis_txtField" layoutX="120.0" layoutY="451.0" prefWidth="575.0" promptText="npr. Senzor za vlažnost zemljišta" />
+
+        <Button layoutX="120.0" layoutY="515.0" mnemonicParsing="false" onAction="#dodajNoviUredjaj" prefWidth="160.0" text="Sačuvaj uređaj" />
+        <Button layoutX="535.0" layoutY="515.0" mnemonicParsing="false" onAction="#zatvoriProzor" prefWidth="160.0" text="Zatvori" />
+    </children>
+</Pane>

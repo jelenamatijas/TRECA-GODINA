@@ -1,0 +1,10 @@
+=== ZAVRŠNI IZVJEŠTAJ GLASANJA ===
+ID Glasanja: 1
+Organizator: organizator
+Datum: 2026-08-23 10:35:32.686
+Važećih glasova: 2
+Nevažećih glasova: 0
+
+REZULTATI:
+ - Kand A: 1 glas(a)
+ - Kand B: 1 glas(a)

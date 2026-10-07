@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="1220.0" xmlns="http://javafx.com/javafx/17.0.14" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jelena.etfbl.smartvillage.app.PregledParcelaController">
+    <children>
+        <Label layoutX="520.0" layoutY="20.0" text="Upravljanje parcelama, zasadima i IoT uređajima">
+            <font>
+                <Font name="System Bold" size="14.0" />
+            </font>
+        </Label>
+
+        <Label layoutX="25.0" layoutY="65.0" text="Parcele zadruge:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <TableView fx:id="parcela_tableView" layoutX="25.0" layoutY="90.0" prefHeight="330.0" prefWidth="320.0">
+            <columns>
+                <TableColumn fx:id="idParcela_col" prefWidth="60.0" text="ID" />
+                <TableColumn fx:id="nazivParcela_col" prefWidth="120.0" text="Naziv" />
+                <TableColumn fx:id="povrsina_col" prefWidth="75.0" text="Površina" />
+                <TableColumn fx:id="ko_col" prefWidth="60.0" text="K.O." />
+            </columns>
+        </TableView>
+
+        <Label layoutX="370.0" layoutY="65.0" text="Podaci o vlasniku (Zadrugaru):">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <Label layoutX="370.0" layoutY="90.0" text="Ime i prezime:" />
+        <TextField fx:id="vlasnik_txtField" editable="false" layoutX="460.0" layoutY="86.0" prefWidth="170.0" style="-fx-background-color: #f4f4f4;" />
+
+        <Label layoutX="370.0" layoutY="130.0" text="Zasadi na parceli:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <TableView fx:id="zasad_tableView" layoutX="370.0" layoutY="155.0" prefHeight="130.0" prefWidth="260.0">
+            <columns>
+                <TableColumn fx:id="kultura_col" prefWidth="90.0" text="Kultura" />
+                <TableColumn fx:id="datumSadnje_col" prefWidth="95.0" text="Datum sadnje" />
+                <TableColumn fx:id="sadnice_col" prefWidth="70.0" text="Sadnica" />
+            </columns>
+        </TableView>
+        <Button layoutX="370.0" layoutY="292.0" mnemonicParsing="false" onAction="#ukloniZasadSaParcele" prefWidth="260.0" style="-fx-text-fill: red;" text="Ukloni / Iskrči selektovani zasad" />
+
+        <Label layoutX="370.0" layoutY="335.0" text="Zaključi prinos za selektovani zasad:">
+            <font>
+                <Font name="System Bold" size="11.0" />
+            </font>
+        </Label>
+        <Label layoutX="370.0" layoutY="358.0" text="Količina (kg):" />
+        <TextField fx:id="kolicinaPrinosa_txtField" layoutX="445.0" layoutY="354.0" prefWidth="65.0" />
+        <Label layoutX="520.0" layoutY="358.0" text="Ocjena (1-5):" />
+        <TextField fx:id="ocjenaPrinosa_txtField" layoutX="595.0" layoutY="354.0" prefWidth="35.0" />
+        <Button layoutX="370.0" layoutY="392.0" mnemonicParsing="false" onAction="#evidentirajPrinos" prefWidth="260.0" text="Evidentiraj novi prinos" />
+
+        <Label layoutX="660.0" layoutY="65.0" text="IoT uređaji na ovoj parceli:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <TableView fx:id="iot_tableView" layoutX="660.0" layoutY="90.0" prefHeight="330.0" prefWidth="250.0">
+            <columns>
+                <TableColumn fx:id="serijskiBrojIot_col" prefWidth="95.0" text="Serijski broj" />
+                <TableColumn fx:id="opisIot_col" prefWidth="150.0" text="Opis uređaja" />
+            </columns>
+        </TableView>
+
+        <Label layoutX="940.0" layoutY="65.0" text="Dodaj novi zasad na parcelu:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <Label layoutX="940.0" layoutY="95.0" text="Izaberi kulturu:" />
+        <ComboBox fx:id="kultura_cmbBox" layoutX="940.0" layoutY="115.0" prefWidth="250.0" />
+
+        <Label layoutX="940.0" layoutY="155.0" text="Broj sadnica:" />
+        <TextField fx:id="brojSadnica_txtField" layoutX="940.0" layoutY="175.0" prefWidth="250.0" />
+
+        <Label layoutX="940.0" layoutY="215.0" text="Datum sadnje:" />
+        <DatePicker fx:id="datumSadnje_datePicker" layoutX="940.0" layoutY="235.0" prefWidth="250.0" />
+
+        <Button layoutX="940.0" layoutY="285.0" mnemonicParsing="false" onAction="#dodajNoviZasad" prefWidth="250.0" text="Sačuvaj novi zasad" />
+
+        <HBox alignment="CENTER" layoutX="25.0" layoutY="485.0" prefWidth="1170.0">
+            <children>
+                <Button mnemonicParsing="false" onAction="#zatvoriProzor" prefHeight="35.0" prefWidth="150.0" text="Zatvori" />
+            </children>
+        </HBox>
+    </children>
+</Pane>

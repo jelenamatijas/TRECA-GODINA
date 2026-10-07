@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="540.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/17.0.14" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jelena.etfbl.smartvillage.app.PregledPlastenikaController">
+    <children>
+        <Label layoutX="243.0" layoutY="20.0" text="Pregled plastenika zadruge">
+            <font>
+                <Font name="System Bold" size="14.0" />
+            </font>
+        </Label>
+
+        <TableView fx:id="plastenici_tableView" layoutX="25.0" layoutY="60.0" prefHeight="220.0" prefWidth="600.0">
+            <columns>
+                <TableColumn fx:id="sifra_col" prefWidth="90.0" text="Šifra" />
+                <TableColumn fx:id="tip_col" prefWidth="120.0" text="Tip plastenika" />
+                <TableColumn fx:id="povrsina_col" prefWidth="90.0" text="Površina (m²)" />
+                <TableColumn fx:id="navodnjavanje_col" prefWidth="150.0" text="Navodnjavanje" />
+                <TableColumn fx:id="hub_col" prefWidth="145.0" text="Pripada HAB-u" />
+            </columns>
+        </TableView>
+        
+        <Label layoutX="25.0" layoutY="300.0" text="Kreiraj novi plastenik:">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+
+        <Label layoutX="25.0" layoutY="335.0" text="Šifra plastenika:" />
+        <TextField fx:id="sifra_txtField" layoutX="140.0" layoutY="331.0" prefWidth="160.0" />
+
+        <Label layoutX="335.0" layoutY="335.0" text="Tip plastenika:" />
+        <TextField fx:id="tip_txtField" layoutX="440.0" layoutY="331.0" prefWidth="180.0" promptText="npr. Tunelski, Blok..." />
+
+        <Label layoutX="25.0" layoutY="385.0" text="Površina (m²):" />
+        <TextField fx:id="povrsina_txtField" layoutX="140.0" layoutY="381.0" prefWidth="160.0" />
+
+        <Label layoutX="335.0" layoutY="385.0" text="Navodnjavanje:" />
+        <TextField fx:id="navodnjavanje_txtField" layoutX="440.0" layoutY="381.0" prefWidth="180.0" promptText="npr. Kap po kap" />
+
+        <Label layoutX="25.0" layoutY="435.0" text="Izaberi HAB:" />
+        <ComboBox fx:id="hub_comboBox" layoutX="140.0" layoutY="431.0" prefWidth="480.0" promptText="-- Odaberite hab kojem plastenik pripada --" />
+
+        <Button layoutX="140.0" layoutY="485.0" mnemonicParsing="false" onAction="#dodajNoviPlastenik" prefWidth="160.0" text="Sačuvaj plastenik" />
+        <Button layoutX="460.0" layoutY="485.0" mnemonicParsing="false" onAction="#zatvoriProzor" prefWidth="160.0" text="Zatvori" />
+      <Button layoutX="522.0" layoutY="296.0" mnemonicParsing="false" onAction="#obrisiPlastenik" text="Obriši plastenik" />
+    </children>
+</Pane>

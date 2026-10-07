@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="650.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/17.0.14" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jelena.etfbl.smartvillage.app.KreirajZadruguController">
+    <children>
+        <Label layoutX="324.0" layoutY="14.0" text="Kreiranje nove zadruge">
+            <font>
+                <Font name="System Bold" size="14.0" />
+            </font>
+        </Label>
+
+        <Label layoutX="20.0" layoutY="46.0" prefHeight="18.0" prefWidth="37.0" text="Naziv" />
+        <TextField fx:id="naziv_txtField" layoutX="74.0" layoutY="42.0" prefHeight="26.0" prefWidth="230.0" />
+        <Label layoutX="20.0" layoutY="94.0" prefHeight="18.0" prefWidth="22.0" text="JIB" />
+        <TextField fx:id="jib_txtField" layoutX="74.0" layoutY="89.0" prefHeight="26.0" prefWidth="230.0" />
+        <Label layoutX="20.0" layoutY="136.0" prefHeight="18.0" prefWidth="37.0" text="Adresa" />
+        <TextField fx:id="adresa_txtFiled" layoutX="74.0" layoutY="131.0" prefHeight="26.0" prefWidth="230.0" />
+        <Label layoutX="20.0" layoutY="179.0" prefHeight="18.0" prefWidth="43.0" text="Telefon" />
+        <TextField fx:id="telefon_txtFiled" layoutX="74.0" layoutY="175.0" prefHeight="26.0" prefWidth="230.0" />
+
+        <Label layoutX="551.0" layoutY="22.0" prefHeight="18.0" prefWidth="150.0" text=" Kreiranje novog direktora" wrapText="true" />
+        <Label layoutX="540.0" layoutY="44.0" text="- Izmjena podataka o postojećem -" />
+        <Label layoutX="447.0" layoutY="82.0" prefHeight="18.0" prefWidth="37.0" text="JMB" />
+        <TextField fx:id="jmb_txtFiled" layoutX="518.0" layoutY="78.0" prefHeight="26.0" prefWidth="230.0" />
+        <Label layoutX="447.0" layoutY="130.0" prefHeight="18.0" prefWidth="37.0" text="Ime" />
+        <TextField fx:id="ime_txtFiled" layoutX="518.0" layoutY="126.0" prefHeight="26.0" prefWidth="230.0" />
+        <Label layoutX="447.0" layoutY="172.0" prefHeight="18.0" prefWidth="50.0" text="Prezime" />
+        <TextField fx:id="prezime_txtFiled" layoutX="518.0" layoutY="168.0" prefHeight="26.0" prefWidth="230.0" />
+        <Label layoutX="447.0" layoutY="215.0" prefHeight="18.0" prefWidth="64.0" text="Dir. telefon" />
+        <TextField fx:id="dirTelefon_txtFiled" layoutX="518.0" layoutY="211.0" prefHeight="26.0" prefWidth="230.0" />
+
+        <Label layoutX="20.0" layoutY="228.0" text="Odabir postojećeg direktora" />
+        <ComboBox fx:id="direktor_cmbBox" layoutX="74.0" layoutY="259.0" prefHeight="26.0" prefWidth="230.0" />
+        <Label layoutX="20.0" layoutY="263.0" text="Direktor" />
+
+        <Label layoutX="447.0" layoutY="251.0" prefHeight="18.0" prefWidth="153.0" text="Datum stupanja na dužnost" />
+        <DatePicker fx:id="datum_datePicker" layoutX="518.0" layoutY="273.0" prefHeight="26.0" prefWidth="230.0" />
+        <Label layoutX="447.0" layoutY="302.0" prefHeight="18.0" prefWidth="153.0" text="Dužina trajanja mandata" />
+        <TextField fx:id="duzinaMandata_txtField" layoutX="518.0" layoutY="327.0" prefHeight="26.0" prefWidth="230.0" />
+
+        <Label layoutX="20.0" layoutY="390.0" text="Zadrugari koji čine zadrugu:" />
+
+        <TableView fx:id="zadrugari_tableView" layoutX="20.0" layoutY="415.0" prefHeight="160.0" prefWidth="565.0">
+            <columns>
+                <TableColumn fx:id="colJmbZadrugar" prefWidth="110.0" text="JMB" />
+                <TableColumn fx:id="colImeZadrugar" prefWidth="120.0" text="Ime" />
+                <TableColumn fx:id="colPrezimeZadrugar" prefWidth="120.0" text="Prezime" />
+                <TableColumn fx:id="colTelefonZadrugar" prefWidth="110.0" text="Telefon" />
+                <TableColumn fx:id="colNoviZadrugar" prefWidth="90.0" text="Novi član?" />
+            </columns>
+        </TableView>
+
+        <Button layoutX="600.0" layoutY="415.0" mnemonicParsing="false" onAction="#dodajPostojecegZadrugara" prefHeight="26.0" prefWidth="175.0" text="Dodaj postojećeg člana" />
+        <Button layoutX="600.0" layoutY="455.0" mnemonicParsing="false" onAction="#kreirajNovogZadrugara" prefHeight="26.0" prefWidth="175.0" text="Kreiraj novog člana" />
+        <Button layoutX="600.0" layoutY="495.0" mnemonicParsing="false" onAction="#ukloniZadrugaraIzTabele" prefHeight="26.0" prefWidth="175.0" text="Ukloni izabrano iz tabele" />
+
+        <Button fx:id="kreirajZadrugu_button" layoutX="320.0" layoutY="600.0" mnemonicParsing="false" onAction="#kreiranjeZadruge" prefHeight="30.0" prefWidth="160.0" style="-fx-font-weight: bold; -fx-background-color: #a5d6a7;" text="SAČUVAJ SVE" />
+    </children>
+</AnchorPane>

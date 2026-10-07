@@ -1,0 +1,72 @@
+======================================================================
+DATABASE TEST DATA FILLER
+Start time: 2026-05-16 18:35:07.667
+Database:   MYSQL @ jdbc:mysql://sql7.freesqldatabase.com:3306/sql7827118?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true&rewriteBatchedStatements=true
+======================================================================
+
+[PHASE 1] Building Hibernate SessionFactory...
+Hibernate SessionFactory created
+Connected: MySQL 5.5.62-0ubuntu0.14.04.1
+
+[PHASE 2] Introspecting schema...
+✓ Found 4 tables
+  • drzava (depends on: [])
+  • korisnik (depends on: [drzava])
+  • narudzba (depends on: [korisnik, proizvod])
+  • proizvod (depends on: [])
+
+[PHASE 3] Analysing dependency graph...
+=== TABLE DEPENDENCY GRAPH ===
+
+Level 0 (parallel): [drzava, proizvod]
+Level 1 (parallel): [korisnik]
+Level 2 (parallel): [narudzba]
+
+
+[PHASE 4] Filling tables...
+Rows per table : 10,000
+Batch size     : 500
+Thread pool    : 4
+----------------------------------------------------------------------
+
+--- Level 0: [drzava, proizvod] (parallel) ---
+[drzava] Starting → 10,000 rows
+[proizvod] Starting → 10,000 rows
+[drzava] Inserted 5,000 / 10,000 rows
+[proizvod] Inserted 5,000 / 10,000 rows
+[drzava] Inserted 10,000 / 10,000 rows
+[drzava] ✓ Done: 10,000 rows in 6,597 ms
+Table: drzava                         | Start: 2026-05-16 18:35:12.737 | End: 2026-05-16 18:35:19.335 | Duration: 6,597 ms | Rows: 10,000 | Rate: 1516 rows/s
+[proizvod] Inserted 10,000 / 10,000 rows
+[proizvod] ✓ Done: 10,000 rows in 7,730 ms
+Table: proizvod                       | Start: 2026-05-16 18:35:12.737 | End: 2026-05-16 18:35:20.468 | Duration: 7,730 ms | Rows: 10,000 | Rate: 1294 rows/s
+
+--- Level 1: [korisnik] (parallel) ---
+[korisnik] Starting → 10,000 rows
+[korisnik] Inserted 5,000 / 10,000 rows
+[korisnik] Inserted 10,000 / 10,000 rows
+[korisnik] ✓ Done: 10,000 rows in 6,888 ms
+Table: korisnik                       | Start: 2026-05-16 18:35:20.468 | End: 2026-05-16 18:35:27.356 | Duration: 6,888 ms | Rows: 10,000 | Rate: 1452 rows/s
+
+--- Level 2: [narudzba] (parallel) ---
+[narudzba] Starting → 10,000 rows
+[narudzba] Inserted 5,000 / 10,000 rows
+[narudzba] Inserted 10,000 / 10,000 rows
+[narudzba] ✓ Done: 10,000 rows in 8,945 ms
+Table: narudzba                       | Start: 2026-05-16 18:35:27.360 | End: 2026-05-16 18:35:36.305 | Duration: 8,945 ms | Rows: 10,000 | Rate: 1118 rows/s
+
+======================================================================
+SUMMARY
+======================================================================
+End time:   2026-05-16 18:35:36.306
+Total time: 28,638 ms (28.64 s)
+Tables filled: 4
+Total rows inserted: 40,000
+Overall rate: 1397 rows/s
+----------------------------------------------------------------------
+Per-table breakdown:
+  Table: drzava                         | Start: 2026-05-16 18:35:12.737 | End: 2026-05-16 18:35:19.335 | Duration: 6,597 ms | Rows: 10,000 | Rate: 1516 rows/s
+  Table: proizvod                       | Start: 2026-05-16 18:35:12.737 | End: 2026-05-16 18:35:20.468 | Duration: 7,730 ms | Rows: 10,000 | Rate: 1294 rows/s
+  Table: korisnik                       | Start: 2026-05-16 18:35:20.468 | End: 2026-05-16 18:35:27.356 | Duration: 6,888 ms | Rows: 10,000 | Rate: 1452 rows/s
+  Table: narudzba                       | Start: 2026-05-16 18:35:27.360 | End: 2026-05-16 18:35:36.305 | Duration: 8,945 ms | Rows: 10,000 | Rate: 1118 rows/s
+======================================================================

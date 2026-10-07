@@ -1,0 +1,506 @@
+python main.py -N 100 -E 500 -K 5 --ranks_out ./data/test1_ranks
+
+--- 1. Generisanje grafa (N=100, E=500, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=6, neighbors=[34, 73, 85, 29, 88, 56])                     
+Node(ID=16, outDegree=6, neighbors=[42, 2, 85, 77, 9, 97])
+Node(ID=32, outDegree=6, neighbors=[66, 6, 41, 61, 29, 93])
+Node(ID=48, outDegree=5, neighbors=[22, 49, 61, 21, 1])
+Node(ID=64, outDegree=4, neighbors=[58, 46, 33, 5])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje standardnog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.2863 | Vrijeme izvrsavanja: 13.863385677337646      
+Iteracija 2/20 - Razlika: 0.1276 | Vrijeme izvrsavanja: 23.196757078170776      
+Iteracija 3/20 - Razlika: 0.0501 | Vrijeme izvrsavanja: 32.99565410614014       
+Iteracija 4/20 - Razlika: 0.0222 | Vrijeme izvrsavanja: 41.78102493286133       
+Iteracija 5/20 - Razlika: 0.0093 | Vrijeme izvrsavanja: 59.22935128211975       
+Iteracija 6/20 - Razlika: 0.0037 | Vrijeme izvrsavanja: 62.75789165496826       
+Iteracija 7/20 - Razlika: 0.0015 | Vrijeme izvrsavanja: 71.13473796844482       
+Iteracija 8/20 - Razlika: 0.0006 | Vrijeme izvrsavanja: 88.1162371635437        
+Iteracija 9/20 - Razlika: 0.0002 | Vrijeme izvrsavanja: 109.52351689338684      
+Iteracija 10/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 133.73035645484924     
+Iteracija 11/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 126.48433756828308     
+Iteracija 12/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 116.81547141075134     
+Iteracija 13/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 120.86163830757141     
+Konvergencija postignuta u iteraciji 13.
+Ukupno vrijeme izvrsavanja algoritma: 1001.1745362281799
+                                                                                
+--- Top 5 cvorova po rangu ---
+1. Node ID: 64    | Rank: 0.0219
+2. Node ID: 14    | Rank: 0.0206
+3. Node ID: 36    | Rank: 0.0193
+4. Node ID: 78    | Rank: 0.0189
+5. Node ID: 19    | Rank: 0.0186
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.                               
+[OK] Svi rangovi su nenegativni.                                                
+[OK] Suma svih rangova je stabilna i iznosi 1.0.                                
+[OK] Graf sadrzi 1 dangling cvorova. Svi su ispravno tretirani.                 
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test1_ranks      
+                 
+python main.py --optimized  -N 100 -E 500 -K 5 --ranks_out ./data/test1_ranks_optimized
+
+--- 1. Generisanje grafa (N=100, E=500, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=6, neighbors=[34, 73, 85, 29, 88, 56])                     
+Node(ID=16, outDegree=6, neighbors=[42, 2, 85, 77, 9, 97])
+Node(ID=32, outDegree=6, neighbors=[66, 6, 41, 61, 29, 93])
+Node(ID=48, outDegree=5, neighbors=[22, 49, 61, 21, 1])
+Node(ID=64, outDegree=4, neighbors=[58, 46, 33, 5])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje optimizovanog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.2863 | Vrijeme izvrsavanja: 5.451637029647827       
+Iteracija 2/20 - Razlika: 0.1276 | Vrijeme izvrsavanja: 4.306358098983765       
+Iteracija 3/20 - Razlika: 0.0501 | Vrijeme izvrsavanja: 4.170604467391968       
+Iteracija 4/20 - Razlika: 0.0222 | Vrijeme izvrsavanja: 4.008718013763428       
+Iteracija 5/20 - Razlika: 0.0093 | Vrijeme izvrsavanja: 3.9749958515167236      
+Iteracija 6/20 - Razlika: 0.0037 | Vrijeme izvrsavanja: 4.224507808685303       
+Iteracija 7/20 - Razlika: 0.0015 | Vrijeme izvrsavanja: 4.193183898925781       
+Iteracija 8/20 - Razlika: 0.0006 | Vrijeme izvrsavanja: 4.426565170288086       
+Iteracija 9/20 - Razlika: 0.0002 | Vrijeme izvrsavanja: 4.413814544677734       
+Iteracija 10/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 4.18860387802124       
+Iteracija 11/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.186964988708496      
+Iteracija 12/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.166375398635864      
+Iteracija 13/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.298223972320557      
+Konvergencija postignuta u iteraciji 13.
+Ukupno vrijeme izvrsavanja algoritma: 56.63365602493286
+
+--- Top 5 cvorova po rangu ---
+1. Node ID: 64    | Rank: 0.0219
+2. Node ID: 14    | Rank: 0.0206
+3. Node ID: 36    | Rank: 0.0193
+4. Node ID: 78    | Rank: 0.0189
+5. Node ID: 19    | Rank: 0.0186
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.
+[OK] Svi rangovi su nenegativni.
+[OK] Suma svih rangova je stabilna i iznosi 1.0000000000000002.
+[OK] Graf sadrzi 1 dangling cvorova. Svi su ispravno tretirani.                 
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test1_ranks_optimized  
+
+#########################################################################################################################################
+           
+python main.py -N 300 -E 600 -K 5 --ranks_out ./data/test2_ranks
+
+--- 1. Generisanje grafa (N=300, E=600, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=1, neighbors=[137])                                        
+Node(ID=16, outDegree=4, neighbors=[142, 122, 170, 89])
+Node(ID=32, outDegree=2, neighbors=[97, 213])
+Node(ID=48, outDegree=1, neighbors=[154])
+Node(ID=64, outDegree=4, neighbors=[66, 10, 226, 46])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje standardnog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.4799 | Vrijeme izvrsavanja: 10.774298191070557      
+Iteracija 2/20 - Razlika: 0.2435 | Vrijeme izvrsavanja: 18.34718108177185       
+Iteracija 3/20 - Razlika: 0.1249 | Vrijeme izvrsavanja: 26.15868902206421       
+Iteracija 4/20 - Razlika: 0.0647 | Vrijeme izvrsavanja: 34.97358560562134       
+Iteracija 5/20 - Razlika: 0.0348 | Vrijeme izvrsavanja: 43.11194610595703       
+Iteracija 6/20 - Razlika: 0.0184 | Vrijeme izvrsavanja: 51.866450786590576      
+Iteracija 7/20 - Razlika: 0.0102 | Vrijeme izvrsavanja: 59.72063159942627       
+Iteracija 8/20 - Razlika: 0.0058 | Vrijeme izvrsavanja: 70.10994839668274       
+Iteracija 9/20 - Razlika: 0.0032 | Vrijeme izvrsavanja: 1174.3112514019012      
+Iteracija 10/20 - Razlika: 0.0017 | Vrijeme izvrsavanja: 85.43937110900879      
+Iteracija 11/20 - Razlika: 0.0009 | Vrijeme izvrsavanja: 96.70096015930176      
+Iteracija 12/20 - Razlika: 0.0005 | Vrijeme izvrsavanja: 102.14400029182434     
+Iteracija 13/20 - Razlika: 0.0003 | Vrijeme izvrsavanja: 109.88320684432983     
+Iteracija 14/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 117.9384388923645      
+Iteracija 15/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 127.32753682136536     
+Iteracija 16/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 135.21177983283997     
+Iteracija 17/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 156.20725464820862     
+Iteracija 18/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 183.7009289264679      
+Iteracija 19/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 188.61378717422485     
+Konvergencija postignuta u iteraciji 19.
+Ukupno vrijeme izvrsavanja algoritma: 2793.1733255386353
+                                                                                
+--- Top 5 cvorova po rangu ---
+1. Node ID: 18    | Rank: 0.0124
+2. Node ID: 294   | Rank: 0.0122
+3. Node ID: 219   | Rank: 0.0117
+4. Node ID: 100   | Rank: 0.0115
+5. Node ID: 78    | Rank: 0.0106
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.                               
+[OK] Svi rangovi su nenegativni.                                                
+[OK] Suma svih rangova je stabilna i iznosi 0.9999999999999997.                 
+[OK] Graf sadrzi 47 dangling cvorova. Svi su ispravno tretirani.                
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test2_ranks   
+
+
+python main.py --optimized -N 300 -E 600 -K 5 --ranks_out ./data/test2_ranks_optimized
+
+--- 1. Generisanje grafa (N=300, E=600, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=1, neighbors=[137])                                        
+Node(ID=16, outDegree=4, neighbors=[142, 122, 170, 89])
+Node(ID=32, outDegree=2, neighbors=[97, 213])
+Node(ID=48, outDegree=1, neighbors=[154])
+Node(ID=64, outDegree=4, neighbors=[66, 10, 226, 46])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje optimizovanog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.4799 | Vrijeme izvrsavanja: 5.758398056030273       
+Iteracija 2/20 - Razlika: 0.2435 | Vrijeme izvrsavanja: 5.03268575668335        
+Iteracija 3/20 - Razlika: 0.1249 | Vrijeme izvrsavanja: 4.4661829471588135      
+Iteracija 4/20 - Razlika: 0.0647 | Vrijeme izvrsavanja: 4.283009052276611       
+Iteracija 5/20 - Razlika: 0.0348 | Vrijeme izvrsavanja: 4.876872539520264       
+Iteracija 6/20 - Razlika: 0.0184 | Vrijeme izvrsavanja: 7.289450407028198       
+Iteracija 7/20 - Razlika: 0.0102 | Vrijeme izvrsavanja: 5.076486110687256       
+Iteracija 8/20 - Razlika: 0.0058 | Vrijeme izvrsavanja: 5.275885581970215       
+Iteracija 9/20 - Razlika: 0.0032 | Vrijeme izvrsavanja: 5.3525590896606445      
+Iteracija 10/20 - Razlika: 0.0017 | Vrijeme izvrsavanja: 4.694317579269409      
+Iteracija 11/20 - Razlika: 0.0009 | Vrijeme izvrsavanja: 4.845586538314819      
+Iteracija 12/20 - Razlika: 0.0005 | Vrijeme izvrsavanja: 4.2908265590667725     
+Iteracija 13/20 - Razlika: 0.0003 | Vrijeme izvrsavanja: 4.232820987701416      
+Iteracija 14/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 4.4183690547943115     
+Iteracija 15/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 4.320497035980225      
+Iteracija 16/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.419921875            
+Iteracija 17/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.301733732223511      
+Iteracija 18/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.3702170848846436     
+Iteracija 19/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.33578085899353       
+Konvergencija postignuta u iteraciji 19.
+Ukupno vrijeme izvrsavanja algoritma: 92.27801752090454
+
+--- Top 5 cvorova po rangu ---
+1. Node ID: 18    | Rank: 0.0124
+2. Node ID: 294   | Rank: 0.0122
+3. Node ID: 219   | Rank: 0.0117
+4. Node ID: 100   | Rank: 0.0115
+5. Node ID: 78    | Rank: 0.0106
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.
+[OK] Svi rangovi su nenegativni.
+[OK] Suma svih rangova je stabilna i iznosi 1.0.
+[OK] Graf sadrzi 47 dangling cvorova. Svi su ispravno tretirani.                
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test2_ranks_optimized  
+
+##############################################################################################################################
+
+python main.py -N 700 -E 900 -K 5 --ranks_out ./data/test3_ranks
+
+--- 1. Generisanje grafa (N=700, E=900, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=2, neighbors=[146, 298])                                   
+Node(ID=16, outDegree=1, neighbors=[209])
+Node(ID=32, outDegree=2, neighbors=[406, 245])
+Node(ID=48, outDegree=3, neighbors=[502, 61, 161])
+Node(ID=64, outDegree=0, neighbors=[])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje standardnog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.4808 | Vrijeme izvrsavanja: 10.540974378585815      
+Iteracija 2/20 - Razlika: 0.2239 | Vrijeme izvrsavanja: 19.00490379333496       
+Iteracija 3/20 - Razlika: 0.1227 | Vrijeme izvrsavanja: 27.256736040115356      
+Iteracija 4/20 - Razlika: 0.0617 | Vrijeme izvrsavanja: 35.11551809310913       
+Iteracija 5/20 - Razlika: 0.0320 | Vrijeme izvrsavanja: 43.58944630622864       
+Iteracija 6/20 - Razlika: 0.0164 | Vrijeme izvrsavanja: 51.73681950569153       
+Iteracija 7/20 - Razlika: 0.0091 | Vrijeme izvrsavanja: 59.67668581008911       
+Iteracija 8/20 - Razlika: 0.0052 | Vrijeme izvrsavanja: 68.44290399551392       
+Iteracija 9/20 - Razlika: 0.0031 | Vrijeme izvrsavanja: 92.89954590797424       
+Iteracija 10/20 - Razlika: 0.0017 | Vrijeme izvrsavanja: 84.66311454772949      
+Iteracija 11/20 - Razlika: 0.0010 | Vrijeme izvrsavanja: 92.89223790168762      
+Iteracija 12/20 - Razlika: 0.0005 | Vrijeme izvrsavanja: 101.6799476146698      
+Iteracija 13/20 - Razlika: 0.0003 | Vrijeme izvrsavanja: 109.32623052597046     
+Iteracija 14/20 - Razlika: 0.0002 | Vrijeme izvrsavanja: 118.07030320167542     
+Iteracija 15/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 127.51919674873352     
+Iteracija 16/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 135.7962794303894      
+Iteracija 17/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 145.0574972629547      
+Iteracija 18/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 152.5517144203186      
+Iteracija 19/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 161.8642213344574      
+Iteracija 20/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 169.7841784954071      
+Ukupno vrijeme izvrsavanja algoritma: 1808.0569994449615
+                                                                                
+--- Top 5 cvorova po rangu ---
+1. Node ID: 215   | Rank: 0.0078
+2. Node ID: 691   | Rank: 0.0076
+3. Node ID: 397   | Rank: 0.0075
+4. Node ID: 464   | Rank: 0.0074
+5. Node ID: 283   | Rank: 0.0070
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.                               
+[OK] Svi rangovi su nenegativni.                                                
+[OK] Suma svih rangova je stabilna i iznosi 1.0000000000000018.                 
+[OK] Graf sadrzi 190 dangling cvorova. Svi su ispravno tretirani.               
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test3_ranks   
+
+
+python main.py --optimized -N 700 -E 900 -K 5 --ranks_out ./data/test3_ranks_optimized
+
+--- 1. Generisanje grafa (N=700, E=900, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=2, neighbors=[146, 298])                                   
+Node(ID=16, outDegree=1, neighbors=[209])
+Node(ID=32, outDegree=2, neighbors=[406, 245])
+Node(ID=48, outDegree=3, neighbors=[502, 61, 161])
+Node(ID=64, outDegree=0, neighbors=[])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje optimizovanog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.4808 | Vrijeme izvrsavanja: 5.405961990356445       
+Iteracija 2/20 - Razlika: 0.2239 | Vrijeme izvrsavanja: 4.567892789840698       
+Iteracija 3/20 - Razlika: 0.1227 | Vrijeme izvrsavanja: 4.5434324741363525      
+Iteracija 4/20 - Razlika: 0.0617 | Vrijeme izvrsavanja: 4.460477113723755       
+Iteracija 5/20 - Razlika: 0.0320 | Vrijeme izvrsavanja: 4.560829401016235       
+Iteracija 6/20 - Razlika: 0.0164 | Vrijeme izvrsavanja: 4.367309808731079       
+Iteracija 7/20 - Razlika: 0.0091 | Vrijeme izvrsavanja: 4.274128675460815       
+Iteracija 8/20 - Razlika: 0.0052 | Vrijeme izvrsavanja: 4.31455659866333        
+Iteracija 9/20 - Razlika: 0.0031 | Vrijeme izvrsavanja: 4.345297813415527       
+Iteracija 10/20 - Razlika: 0.0017 | Vrijeme izvrsavanja: 4.216908693313599      
+Iteracija 11/20 - Razlika: 0.0010 | Vrijeme izvrsavanja: 4.344574451446533      
+Iteracija 12/20 - Razlika: 0.0005 | Vrijeme izvrsavanja: 4.204427242279053      
+Iteracija 13/20 - Razlika: 0.0003 | Vrijeme izvrsavanja: 4.605241298675537      
+Iteracija 14/20 - Razlika: 0.0002 | Vrijeme izvrsavanja: 4.412838935852051      
+Iteracija 15/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 4.244208097457886      
+Iteracija 16/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 4.269162654876709      
+Iteracija 17/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.181499719619751      
+Iteracija 18/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.2937610149383545     
+Iteracija 19/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.157402515411377      
+Iteracija 20/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.267918586730957      
+Ukupno vrijeme izvrsavanja algoritma: 88.58661365509033
+
+--- Top 5 cvorova po rangu ---
+1. Node ID: 215   | Rank: 0.0078
+2. Node ID: 691   | Rank: 0.0076
+3. Node ID: 397   | Rank: 0.0075
+4. Node ID: 464   | Rank: 0.0074
+5. Node ID: 283   | Rank: 0.0070
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.
+[OK] Svi rangovi su nenegativni.
+[OK] Suma svih rangova je stabilna i iznosi 1.0.
+[OK] Graf sadrzi 190 dangling cvorova. Svi su ispravno tretirani.               
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test3_ranks_optimized    
+
+##################################################################################################################
+
+python main.py -N 1500 -E 1100 -K 5 --ranks_out ./data/test4_ranks
+
+
+--- 1. Generisanje grafa (N=1500, E=1100, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=1, neighbors=[293])                                        
+Node(ID=16, outDegree=1, neighbors=[118])
+Node(ID=32, outDegree=0, neighbors=[])
+Node(ID=48, outDegree=1, neighbors=[1322])
+Node(ID=64, outDegree=2, neighbors=[813, 1397])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje standardnog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.4671 | Vrijeme izvrsavanja: 11.692959308624268      
+Iteracija 2/20 - Razlika: 0.1748 | Vrijeme izvrsavanja: 19.865556001663208      
+Iteracija 3/20 - Razlika: 0.0712 | Vrijeme izvrsavanja: 28.819363832473755      
+Iteracija 4/20 - Razlika: 0.0300 | Vrijeme izvrsavanja: 36.35890030860901       
+Iteracija 5/20 - Razlika: 0.0136 | Vrijeme izvrsavanja: 45.79375457763672       
+Iteracija 6/20 - Razlika: 0.0066 | Vrijeme izvrsavanja: 52.77692651748657       
+Iteracija 7/20 - Razlika: 0.0031 | Vrijeme izvrsavanja: 61.93188166618347       
+Iteracija 8/20 - Razlika: 0.0016 | Vrijeme izvrsavanja: 70.02060437202454       
+Iteracija 9/20 - Razlika: 0.0008 | Vrijeme izvrsavanja: 77.54329514503479       
+Iteracija 10/20 - Razlika: 0.0005 | Vrijeme izvrsavanja: 87.38100242614746      
+Iteracija 11/20 - Razlika: 0.0003 | Vrijeme izvrsavanja: 96.79989337921143      
+Iteracija 12/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 105.07734370231628     
+Iteracija 13/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 113.92478227615356     
+Iteracija 14/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 122.31404662132263     
+Iteracija 15/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 130.69684171676636     
+Iteracija 16/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 139.62281894683838     
+Konvergencija postignuta u iteraciji 16.
+Ukupno vrijeme izvrsavanja algoritma: 1201.2030248641968
+                                                                                
+--- Top 5 cvorova po rangu ---
+1. Node ID: 811   | Rank: 0.0036
+2. Node ID: 1247  | Rank: 0.0034
+3. Node ID: 548   | Rank: 0.0032
+4. Node ID: 759   | Rank: 0.0029
+5. Node ID: 100   | Rank: 0.0029
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.                               
+[OK] Svi rangovi su nenegativni.                                                
+[OK] Suma svih rangova je stabilna i iznosi 1.0.                                
+[OK] Graf sadrzi 713 dangling cvorova. Svi su ispravno tretirani.               
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test4_ranks 
+
+
+
+python main.py --optimized -N 1500 -E 1100 -K 5 --ranks_out ./data/test4_ranks_optimized
+
+--- 1. Generisanje grafa (N=1500, E=1100, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=1, neighbors=[293])                                        
+Node(ID=16, outDegree=1, neighbors=[118])
+Node(ID=32, outDegree=0, neighbors=[])
+Node(ID=48, outDegree=1, neighbors=[1322])
+Node(ID=64, outDegree=2, neighbors=[813, 1397])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje optimizovanog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.4671 | Vrijeme izvrsavanja: 5.252180099487305       
+Iteracija 2/20 - Razlika: 0.1748 | Vrijeme izvrsavanja: 4.517090559005737       
+Iteracija 3/20 - Razlika: 0.0712 | Vrijeme izvrsavanja: 4.006272077560425       
+Iteracija 4/20 - Razlika: 0.0300 | Vrijeme izvrsavanja: 4.067861080169678       
+Iteracija 5/20 - Razlika: 0.0136 | Vrijeme izvrsavanja: 4.042929410934448       
+Iteracija 6/20 - Razlika: 0.0066 | Vrijeme izvrsavanja: 4.035552263259888       
+Iteracija 7/20 - Razlika: 0.0031 | Vrijeme izvrsavanja: 4.438334941864014       
+Iteracija 8/20 - Razlika: 0.0016 | Vrijeme izvrsavanja: 4.251694202423096       
+Iteracija 9/20 - Razlika: 0.0008 | Vrijeme izvrsavanja: 4.186624050140381       
+Iteracija 10/20 - Razlika: 0.0005 | Vrijeme izvrsavanja: 4.138422012329102      
+Iteracija 11/20 - Razlika: 0.0003 | Vrijeme izvrsavanja: 4.243193864822388      
+Iteracija 12/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 4.352964639663696      
+Iteracija 13/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 4.048137903213501      
+Iteracija 14/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.291504144668579      
+Iteracija 15/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.096489667892456      
+Iteracija 16/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.125351905822754      
+Konvergencija postignuta u iteraciji 16.
+Ukupno vrijeme izvrsavanja algoritma: 68.67326235771179
+
+--- Top 5 cvorova po rangu ---
+1. Node ID: 811   | Rank: 0.0036
+2. Node ID: 1247  | Rank: 0.0034
+3. Node ID: 548   | Rank: 0.0032
+4. Node ID: 759   | Rank: 0.0029
+5. Node ID: 100   | Rank: 0.0029
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.
+[OK] Svi rangovi su nenegativni.
+[OK] Suma svih rangova je stabilna i iznosi 0.9999999999999994.
+[OK] Graf sadrzi 713 dangling cvorova. Svi su ispravno tretirani.               
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test4_ranks_optimized   
+
+###################################################################################################################
+
+python main.py -N 4000 -E 6000 -K 5 --ranks_out ./data/test5_ranks
+
+--- 1. Generisanje grafa (N=4000, E=6000, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=2, neighbors=[1957, 349])                                  
+Node(ID=16, outDegree=2, neighbors=[950, 2830])
+Node(ID=32, outDegree=1, neighbors=[2553])
+Node(ID=48, outDegree=1, neighbors=[1282])
+Node(ID=64, outDegree=5, neighbors=[3562, 3926, 2661, 1181, 2725])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje standardnog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.4870 | Vrijeme izvrsavanja: 10.659438848495483      
+Iteracija 2/20 - Razlika: 0.2296 | Vrijeme izvrsavanja: 19.70456290245056       
+Iteracija 3/20 - Razlika: 0.1199 | Vrijeme izvrsavanja: 27.74783444404602       
+Iteracija 4/20 - Razlika: 0.0665 | Vrijeme izvrsavanja: 37.214452028274536      
+Iteracija 5/20 - Razlika: 0.0358 | Vrijeme izvrsavanja: 44.81289315223694       
+Iteracija 6/20 - Razlika: 0.0201 | Vrijeme izvrsavanja: 53.58421993255615       
+Iteracija 7/20 - Razlika: 0.0112 | Vrijeme izvrsavanja: 61.20056366920471       
+Iteracija 8/20 - Razlika: 0.0064 | Vrijeme izvrsavanja: 69.4616105556488        
+Iteracija 9/20 - Razlika: 0.0038 | Vrijeme izvrsavanja: 78.27206134796143       
+Iteracija 10/20 - Razlika: 0.0022 | Vrijeme izvrsavanja: 86.5561728477478       
+Iteracija 11/20 - Razlika: 0.0013 | Vrijeme izvrsavanja: 95.23763608932495      
+Iteracija 12/20 - Razlika: 0.0008 | Vrijeme izvrsavanja: 103.52048206329346     
+Iteracija 13/20 - Razlika: 0.0005 | Vrijeme izvrsavanja: 111.63451933860779     
+Iteracija 14/20 - Razlika: 0.0003 | Vrijeme izvrsavanja: 120.77959156036377     
+Iteracija 15/20 - Razlika: 0.0002 | Vrijeme izvrsavanja: 128.84880375862122     
+Iteracija 16/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 138.47086691856384     
+Iteracija 17/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 143.287846326828       
+Iteracija 18/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 152.4095003604889      
+Iteracija 19/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 159.81884908676147     
+Iteracija 20/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 169.12183618545532     
+Ukupno vrijeme izvrsavanja algoritma: 1812.9108850955963
+                                                                                
+--- Top 5 cvorova po rangu ---
+1. Node ID: 3521  | Rank: 0.0016
+2. Node ID: 2411  | Rank: 0.0015
+3. Node ID: 209   | Rank: 0.0015
+4. Node ID: 291   | Rank: 0.0013
+5. Node ID: 3410  | Rank: 0.0013
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.                               
+[OK] Svi rangovi su nenegativni.                                                
+[OK] Suma svih rangova je stabilna i iznosi 0.9999999999999997.                 
+[OK] Graf sadrzi 916 dangling cvorova. Svi su ispravno tretirani.               
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test5_ranks    
+
+
+ python main.py --optimized -N 4000 -E 6000 -K 5 --ranks_out ./data/test5_ranks_optimized
+
+
+--- 1. Generisanje grafa (N=4000, E=6000, seed=42) ---
+Ucitano/Generisano cvorova za analizu (uzorci):                                 
+Node(ID=0, outDegree=2, neighbors=[1957, 349])                                  
+Node(ID=16, outDegree=2, neighbors=[950, 2830])
+Node(ID=32, outDegree=1, neighbors=[2553])
+Node(ID=48, outDegree=1, neighbors=[1282])
+Node(ID=64, outDegree=5, neighbors=[3562, 3926, 2661, 1181, 2725])
+
+--- 3. Pokretanje PageRank algoritma ---
+
+--- Pokretanje optimizovanog PageRank algoritma ---
+Iteracija 1/20 - Razlika: 0.4870 | Vrijeme izvrsavanja: 5.092025995254517       
+Iteracija 2/20 - Razlika: 0.2296 | Vrijeme izvrsavanja: 4.212170124053955       
+Iteracija 3/20 - Razlika: 0.1199 | Vrijeme izvrsavanja: 4.067940711975098       
+Iteracija 4/20 - Razlika: 0.0665 | Vrijeme izvrsavanja: 3.9442636966705322      
+Iteracija 5/20 - Razlika: 0.0358 | Vrijeme izvrsavanja: 4.131577730178833       
+Iteracija 6/20 - Razlika: 0.0201 | Vrijeme izvrsavanja: 4.08526086807251        
+Iteracija 7/20 - Razlika: 0.0112 | Vrijeme izvrsavanja: 4.087773084640503       
+Iteracija 8/20 - Razlika: 0.0064 | Vrijeme izvrsavanja: 4.083682298660278       
+Iteracija 9/20 - Razlika: 0.0038 | Vrijeme izvrsavanja: 4.066136837005615       
+Iteracija 10/20 - Razlika: 0.0022 | Vrijeme izvrsavanja: 4.129766941070557      
+Iteracija 11/20 - Razlika: 0.0013 | Vrijeme izvrsavanja: 3.930842638015747      
+Iteracija 12/20 - Razlika: 0.0008 | Vrijeme izvrsavanja: 4.090002775192261      
+Iteracija 13/20 - Razlika: 0.0005 | Vrijeme izvrsavanja: 4.0633814334869385     
+Iteracija 14/20 - Razlika: 0.0003 | Vrijeme izvrsavanja: 3.9736838340759277     
+Iteracija 15/20 - Razlika: 0.0002 | Vrijeme izvrsavanja: 4.069642543792725      
+Iteracija 16/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 3.9981658458709717     
+Iteracija 17/20 - Razlika: 0.0001 | Vrijeme izvrsavanja: 4.128580331802368      
+Iteracija 18/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.281742572784424      
+Iteracija 19/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 3.991170883178711      
+Iteracija 20/20 - Razlika: 0.0000 | Vrijeme izvrsavanja: 4.163784503936768      
+Ukupno vrijeme izvrsavanja algoritma: 83.15835452079773
+
+--- Top 5 cvorova po rangu ---
+1. Node ID: 3521  | Rank: 0.0016
+2. Node ID: 2411  | Rank: 0.0015
+3. Node ID: 209   | Rank: 0.0015
+4. Node ID: 291   | Rank: 0.0013
+5. Node ID: 3410  | Rank: 0.0013
+
+--- Validacija rezultata ---
+[OK] Broj rangova odgovara broju cvorova u grafu.
+[OK] Svi rangovi su nenegativni.
+[OK] Suma svih rangova je stabilna i iznosi 0.9999999999999996.
+[OK] Graf sadrzi 916 dangling cvorova. Svi su ispravno tretirani.               
+
+--- 4. Čuvanje finalnih rangova ---
+Finalni rangovi su uspešno sačuvani u: ./data/test5_ranks_optimized    

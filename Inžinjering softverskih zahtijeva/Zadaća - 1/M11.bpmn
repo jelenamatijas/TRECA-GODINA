@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_04c5tbu" targetNamespace="http://bpmn.io/schema/bpmn" exporter="Camunda Modeler" exporterVersion="5.40.1" modeler:executionPlatform="Camunda Cloud" modeler:executionPlatformVersion="8.8.0">
+  <bpmn:collaboration id="Collaboration_0qsv0c2">
+    <bpmn:participant id="Participant_0m8inqm" name="Koordinator" processRef="Process_1mlun23" />
+  </bpmn:collaboration>
+  <bpmn:process id="Process_1mlun23" isExecutable="true">
+    <bpmn:sequenceFlow id="Flow_0lh3inh" sourceRef="StartEvent_1" targetRef="Activity_1t198nd" />
+    <bpmn:task id="Activity_1t198nd" name="Pregled rezultata takmičenja">
+      <bpmn:incoming>Flow_0lh3inh</bpmn:incoming>
+      <bpmn:outgoing>Flow_1hadpvc</bpmn:outgoing>
+      <bpmn:property id="Property_1srnx5w" name="__targetRef_placeholder" />
+      <bpmn:dataInputAssociation id="DataInputAssociation_1txjsbs">
+        <bpmn:sourceRef>DataStoreReference_02s9qi4</bpmn:sourceRef>
+        <bpmn:targetRef>Property_1srnx5w</bpmn:targetRef>
+      </bpmn:dataInputAssociation>
+      <bpmn:multiInstanceLoopCharacteristics isSequential="true" />
+    </bpmn:task>
+    <bpmn:dataStoreReference id="DataStoreReference_02s9qi4" name="Skladište" />
+    <bpmn:sequenceFlow id="Flow_1hadpvc" sourceRef="Activity_1t198nd" targetRef="Activity_08fv81g" />
+    <bpmn:task id="Activity_08fv81g" name="Formiranje rang liste fakulteta">
+      <bpmn:incoming>Flow_1hadpvc</bpmn:incoming>
+      <bpmn:outgoing>Flow_18dup9h</bpmn:outgoing>
+      <bpmn:dataOutputAssociation id="DataOutputAssociation_0mjkvao">
+        <bpmn:targetRef>DataObjectReference_0b3i3lv</bpmn:targetRef>
+      </bpmn:dataOutputAssociation>
+    </bpmn:task>
+    <bpmn:sequenceFlow id="Flow_18dup9h" sourceRef="Activity_08fv81g" targetRef="Activity_094ctjh" />
+    <bpmn:sendTask id="Activity_094ctjh" name="Objavljivanje rang liste fakulteta">
+      <bpmn:incoming>Flow_18dup9h</bpmn:incoming>
+      <bpmn:outgoing>Flow_1gsrk1w</bpmn:outgoing>
+      <bpmn:property id="Property_1j6gy0l" name="__targetRef_placeholder" />
+      <bpmn:dataInputAssociation id="DataInputAssociation_0eyoj9a">
+        <bpmn:sourceRef>DataObjectReference_0b3i3lv</bpmn:sourceRef>
+        <bpmn:targetRef>Property_1j6gy0l</bpmn:targetRef>
+      </bpmn:dataInputAssociation>
+      <bpmn:dataOutputAssociation id="DataOutputAssociation_0cc2z3t">
+        <bpmn:targetRef>DataObjectReference_0iokq1f</bpmn:targetRef>
+      </bpmn:dataOutputAssociation>
+    </bpmn:sendTask>
+    <bpmn:endEvent id="Event_0okrcu8" name="Kraj">
+      <bpmn:incoming>Flow_1gsrk1w</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:sequenceFlow id="Flow_1gsrk1w" sourceRef="Activity_094ctjh" targetRef="Event_0okrcu8" />
+    <bpmn:dataObjectReference id="DataObjectReference_0iokq1f" name="Rang lista fakulteta [Objavljena]" dataObjectRef="DataObject_0i8xjf3" />
+    <bpmn:dataObject id="DataObject_0i8xjf3" isCollection="true" />
+    <bpmn:startEvent id="StartEvent_1" name="Odabrana opcija za objavljivanje rang liste fakulteta">
+      <bpmn:outgoing>Flow_0lh3inh</bpmn:outgoing>
+    </bpmn:startEvent>
+    <bpmn:dataObjectReference id="DataObjectReference_0b3i3lv" name="Rang lista fakulteta [Novo]" dataObjectRef="DataObject_0cscnsa" />
+    <bpmn:dataObject id="DataObject_0cscnsa" isCollection="true" />
+  </bpmn:process>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_1">
+    <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Collaboration_0qsv0c2">
+      <bpmndi:BPMNShape id="Participant_0m8inqm_di" bpmnElement="Participant_0m8inqm" isHorizontal="true">
+        <dc:Bounds x="130" y="70" width="898" height="350" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1t198nd_di" bpmnElement="Activity_1t198nd">
+        <dc:Bounds x="320" y="150" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="DataStoreReference_02s9qi4_di" bpmnElement="DataStoreReference_02s9qi4">
+        <dc:Bounds x="395" y="325" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="398" y="382" width="45" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_08fv81g_di" bpmnElement="Activity_08fv81g">
+        <dc:Bounds x="510" y="150" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1108v6k_di" bpmnElement="Activity_094ctjh">
+        <dc:Bounds x="700" y="150" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_0okrcu8_di" bpmnElement="Event_0okrcu8">
+        <dc:Bounds x="892" y="172" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="900" y="215" width="20" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="DataObjectReference_0iokq1f_di" bpmnElement="DataObjectReference_0iokq1f">
+        <dc:Bounds x="792" y="295" width="36" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="781" y="352" width="59" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_1oeac0h_di" bpmnElement="StartEvent_1">
+        <dc:Bounds x="202" y="172" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="175" y="220" width="90" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="BPMNShape_1emnzib" bpmnElement="DataObjectReference_0b3i3lv">
+        <dc:Bounds x="612" y="295" width="36" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="592" y="352" width="77" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="Flow_0lh3inh_di" bpmnElement="Flow_0lh3inh">
+        <di:waypoint x="238" y="190" />
+        <di:waypoint x="320" y="190" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1hadpvc_di" bpmnElement="Flow_1hadpvc">
+        <di:waypoint x="420" y="190" />
+        <di:waypoint x="510" y="190" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_18dup9h_di" bpmnElement="Flow_18dup9h">
+        <di:waypoint x="610" y="190" />
+        <di:waypoint x="700" y="190" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1gsrk1w_di" bpmnElement="Flow_1gsrk1w">
+        <di:waypoint x="800" y="190" />
+        <di:waypoint x="892" y="190" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataInputAssociation_1txjsbs_di" bpmnElement="DataInputAssociation_1txjsbs">
+        <di:waypoint x="395" y="350" />
+        <di:waypoint x="370" y="350" />
+        <di:waypoint x="370" y="230" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataOutputAssociation_0cc2z3t_di" bpmnElement="DataOutputAssociation_0cc2z3t">
+        <di:waypoint x="750" y="230" />
+        <di:waypoint x="750" y="315" />
+        <di:waypoint x="792" y="315" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataOutputAssociation_0mjkvao_di" bpmnElement="DataOutputAssociation_0mjkvao">
+        <di:waypoint x="560" y="230" />
+        <di:waypoint x="560" y="320" />
+        <di:waypoint x="612" y="320" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataInputAssociation_0eyoj9a_di" bpmnElement="DataInputAssociation_0eyoj9a">
+        <di:waypoint x="648" y="320" />
+        <di:waypoint x="720" y="320" />
+        <di:waypoint x="720" y="230" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>

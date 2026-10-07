@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/17.0.14" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jelena.etfbl.smartvillage.app.PregledZadrugeController">
+    <children>
+        <Label layoutX="305.0" layoutY="22.0" prefHeight="20.0" prefWidth="190.0" text="Pregled podataka o zadruzi">
+            <font>
+                <Font name="System Bold" size="14.0" />
+            </font>
+        </Label>
+
+        <Label layoutX="164.0" layoutY="70.0" text="Naziv:" />
+        <TextField fx:id="naziv_txtField" editable="false" layoutX="220.0" layoutY="66.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <Label layoutX="164.0" layoutY="115.0" text="JIB:" />
+        <TextField fx:id="jib_txtField" editable="false" layoutX="220.0" layoutY="111.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <Label layoutX="164.0" layoutY="160.0" text="Adresa:" />
+        <TextField fx:id="adresa_txtField" editable="false" layoutX="220.0" layoutY="156.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <Label layoutX="164.0" layoutY="205.0" text="Telefon:" />
+        <TextField fx:id="telefon_txtField" editable="false" layoutX="220.0" layoutY="201.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <CheckBox fx:id="aktivna_checkBox" disable="true" layoutX="220.0" layoutY="250.0" text="Aktivna zadruga" />
+
+        <Label layoutX="468.0" layoutY="70.0" text="JMB direktora:" />
+        <TextField fx:id="jmb_txtField" editable="false" layoutX="558.0" layoutY="66.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <Label layoutX="468.0" layoutY="115.0" text="Ime:" />
+        <TextField fx:id="ime_txtField" editable="false" layoutX="558.0" layoutY="111.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <Label layoutX="468.0" layoutY="160.0" text="Prezime:" />
+        <TextField fx:id="prezime_txtField" editable="false" layoutX="558.0" layoutY="156.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <Label layoutX="468.0" layoutY="205.0" text="Telefon dir:" />
+        <TextField fx:id="dirTelefon_txtField" editable="false" layoutX="558.0" layoutY="201.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <Label layoutX="468.0" layoutY="250.0" text="Datum stupanja:" />
+        <DatePicker fx:id="datum_datePicker" disable="true" layoutX="558.0" layoutY="246.0" prefWidth="230.0" style="-fx-opacity: 1.0;" />
+
+        <Label layoutX="468.0" layoutY="295.0" text="Mandat (god):" />
+        <TextField fx:id="duzinaMandata_txtField" editable="false" layoutX="540.0" layoutY="291.0" prefWidth="230.0" style="-fx-background-color: #f4f4f4;" />
+
+        <VBox alignment="CENTER" layoutX="14.0" layoutY="14.0" prefHeight="456.0" prefWidth="120.0" spacing="20.0">
+            <children>
+                <Button mnemonicParsing="false" onAction="#otvoriUredjivanje" prefHeight="26.0" prefWidth="120.0" text="Uredi zadrugu" />
+                <Button mnemonicParsing="false" onAction="#otvoriPregledZaposlenih" prefHeight="26.0" prefWidth="120.0" text="Pregled zaposlenih" />
+                <Button mnemonicParsing="false" onAction="#otvoriPregledHabova" prefHeight="26.0" prefWidth="120.0" text="Pregled habova" />
+                <Button mnemonicParsing="false" onAction="#otvoriPregledParcela" prefHeight="26.0" prefWidth="120.0" text="Pregled parcela" />
+                <Button mnemonicParsing="false" onAction="#otvoriProzorPregledZasada" prefHeight="26.0" prefWidth="120.0" text="Pregled zasada" />
+                <Button mnemonicParsing="false" onAction="#otvoriPregledKultura" prefHeight="26.0" prefWidth="120.0" text="Pregled kultura" />
+                <Button mnemonicParsing="false" onAction="#otvoriPregledPlastenika" prefHeight="26.0" prefWidth="120.0" text="Pregled plastenika" />
+                <Button mnemonicParsing="false" onAction="#otvoriPregledPrinosa" prefHeight="26.0" prefWidth="120.0" text="Pregled prinosa" />
+            <Button layoutX="10.0" layoutY="387.0" mnemonicParsing="false" onAction="#otvoriPregledUredjaja" prefHeight="26.0" prefWidth="120.0" text="Pregled uredjaja" />
+            </children>
+        </VBox>
+
+        <Separator layoutX="144.0" orientation="VERTICAL" prefHeight="500.0" prefWidth="4.0" />
+    </children>
+</Pane>

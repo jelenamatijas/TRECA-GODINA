@@ -1,0 +1,9 @@
+=== ZAVRŠNI IZVJEŠTAJ GLASANJA ===
+ID Glasanja: 2
+Organizator: organizator
+Datum: 2026-08-25 10:25:51.819
+Važećih glasova: 1
+Nevažećih glasova: 0
+
+REZULTATI:
+ - a: 1 glas(a)

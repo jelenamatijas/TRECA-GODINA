@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox spacing="15.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jelena.etfbl.smartvillage.app.NovaParcelaController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+    <children>
+        <Label text="Dodavanje nove parcele">
+            <font>
+                <Font name="System Bold" size="16.0" />
+            </font>
+            <VBox.margin>
+                <Insets bottom="10.0" />
+            </VBox.margin>
+        </Label>
+
+        <GridPane hgap="10.0" vgap="12.0">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="130.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="220.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <children>
+                <Label text="ID Parcele:" GridPane.rowIndex="0" />
+                <TextField fx:id="id_txtField" promptText="Unesite jedinstveni broj" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+
+                <Label text="Naziv parcele:" GridPane.rowIndex="1" />
+                <TextField fx:id="naziv_txtField" promptText="npr. Livada kod potoka" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+
+                <Label text="Površina (ha):" GridPane.rowIndex="2" />
+                <TextField fx:id="povrsina_txtField" promptText="npr. 2.5" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+
+                <Label text="Katastarska opština:" GridPane.rowIndex="3" />
+                <TextField fx:id="ko_txtField" promptText="Unesite šifru opštine" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            </children>
+        </GridPane>
+
+        <HBox alignment="CENTER_RIGHT" spacing="10.0">
+            <children>
+                <Button mnemonicParsing="false" onAction="#spasiParcelu" prefWidth="90.0" style="-fx-background-color: #2196F3; -fx-text-fill: white; -fx-font-weight: bold;" text="Spasi" />
+                <Button mnemonicParsing="false" onAction="#ponisti" prefWidth="90.0" text="Poništi" />
+            </children>
+            <VBox.margin>
+                <Insets top="15.0" />
+            </VBox.margin>
+        </HBox>
+    </children>
+</VBox>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+
+<VBox prefWidth="550.0" spacing="15.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jelena.etfbl.smartvillage.app.NoviZadrugarController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+    <children>
+        <Label text="Podaci o novom zadrugaru">
+            <font>
+                <Font name="System Bold" size="16.0" />
+            </font>
+        </Label>
+
+        <GridPane hgap="10.0" vgap="10.0">
+            <columnConstraints>
+                <ColumnConstraints prefWidth="120.0" />
+                <ColumnConstraints prefWidth="370.0" />
+            </columnConstraints>
+            <children>
+                <Label text="JMB (Obavezno):" GridPane.rowIndex="0" GridPane.columnIndex="0" />
+                <TextField fx:id="jmb_txt" GridPane.rowIndex="0" GridPane.columnIndex="1" />
+
+                <Label text="Ime (Obavezno):" GridPane.rowIndex="1" GridPane.columnIndex="0" />
+                <TextField fx:id="ime_txt" GridPane.rowIndex="1" GridPane.columnIndex="1" />
+
+                <Label text="Prezime:" GridPane.rowIndex="2" GridPane.columnIndex="0" />
+                <TextField fx:id="prezime_txt" GridPane.rowIndex="2" GridPane.columnIndex="1" />
+
+                <Label text="Telefon:" GridPane.rowIndex="3" GridPane.columnIndex="0" />
+                <TextField fx:id="telefon_txt" GridPane.rowIndex="3" GridPane.columnIndex="1" />
+
+                <Label text="Status člana:" GridPane.rowIndex="4" GridPane.columnIndex="0" />
+                <ComboBox fx:id="status_cmb" prefWidth="150.0" GridPane.rowIndex="4" GridPane.columnIndex="1" />
+            </children>
+        </GridPane>
+
+        <Separator prefWidth="Infinity" />
+
+        <HBox spacing="15.0" alignment="CENTER_LEFT">
+            <children>
+                <Label text="Parcele novog zadrugara:" style="-fx-font-weight: bold;" />
+                <Button text="+ Dodaj parcelu" onAction="#dodajNovuParcelu" style="-fx-background-color: #2e7d32; -fx-text-fill: white; -fx-font-size: 12px;" />
+                <Button text="Ukloni parcelu" onAction="#ukloniParcelu" style="-fx-background-color: #c62828; -fx-text-fill: white; -fx-font-size: 12px;" />
+            </children>
+        </HBox>
+
+        <ListView fx:id="parcele_listView" prefHeight="120.0" />
+
+        <HBox spacing="15.0" alignment="CENTER_RIGHT">
+            <padding>
+                <Insets top="10.0" />
+            </padding>
+            <children>
+                <Button text="Odustani" onAction="#odustani" prefWidth="100.0" style="-fx-background-color: #757575; -fx-text-fill: white;" />
+                <Button text="Potvrdi i dodaj" onAction="#potvrdi" prefWidth="140.0" style="-fx-background-color: #1565c0; -fx-text-fill: white; -fx-font-weight: bold;" />
+            </children>
+        </HBox>
+    </children>
+</VBox>
